@@ -1,1 +1,17 @@
+## File Types
 **/*.sync
+**/*.vcf.gz*
+
+
+## Folders 
+Amajus_alleles-ancestral/
+Amajus_poolseq/*
+ARGs/
+bam*/
+fastq/
+genome_scans/
+misc_toSort/
+old_VCFs/
+variants/
+wrath/
+
