@@ -1,0 +1,5 @@
+#Make gap file:
+faGapLocs Amajus_v3.5_SLocus.fasta Amajus_v3.5_SLocus.lifted
+
+#Get scaffold boundaries:
+awk '/gap/ {print $4"\t"sprintf("%d",$1+$3/2)}' Amajus_v3.5_SLocus.lifted > Amajus_v3.5_SLocus.gaps

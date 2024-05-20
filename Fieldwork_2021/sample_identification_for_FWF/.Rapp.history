@@ -1,0 +1,38 @@
+getwd
+getwd()
+hello world
+getwd()
+install.packages("patternize")
+load.packages("patternize")
+load.package("patternize")
+package("patternize")
+library("patternize")
+citation()
+y
+yes
+citation()
+help()
+demos()
+demo()
+yes
+y
+library(plotly)#
+library(ggplot2)#
+library(gapminder)
+setwd("/Volumes/home/from_mac_202111123_desktop/TrimbleDataCleaning-2021/sample_identification_for_FWF")#
+#
+all_coords <- read.csv("coords_ALL-2021-v3.1_20211117.csv", strip.white = T, na.strings = T, header = T)#
+str(all_coords)#
+all_coords$AvgLat <- as.numeric(all_coords$AvgLat)#
+all_coords$AvgLong <- as.numeric(all_coords$AvgLong)#
+#
+levels(all_coords$Plant.status)#
+#
+all_Alive <- all_coords[which(all_coords$Plant.status == "Alive"),]#
+str(all_Alive)
+coords <-#
+  ggplot(all_Alive) +#
+  geom_point(aes(AvgLong, AvgLat))#
+#
+ggplotly(coords)
+ggplotly(coords)
