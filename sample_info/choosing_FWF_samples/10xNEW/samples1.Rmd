@@ -1,0 +1,60 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Cmd+Shift+Enter*. 
+
+```{r}
+library('data.table', verbose = T)
+library('tidyverse', verbose = T)
+setwd("~/Projects/2021-snap_hap/")
+```
+
+```{r}
+## Read all names in long format
+haplo_samples <- fread("~/Projects/2021-snap_hap/sample_info/all_samples_longName.txt", header=F)
+all_samples <- fread("~/Projects/2021-snap_hap/FinalGenoEcol_long_int.csv", header=T)
+field2021_samples <- fread("~/Projects/2021-snap_fieldwork/coords_2021_final/2021_AllGPS_PipelineReady_AP.csv", header=T)
+```
+
+```{r}
+
+haplo_samples <- fread("~/Projects/2021-snap_hap/sample_info/all_samples_longName.txt", header=F)
+str(haplo_samples)
+colnames(haplo_samples) <- "fullname"
+haplo_samples[, c("batch", "species", "location", "PlantID") := tstrsplit(V1, "_", fixed=TRUE)]
+haplo_samples[, "PlantID" := str_to_upper(PlantID)]
+str(haplo_samples)
+
+```
+
+```{r}
+all_samples <- fread("~/Projects/2021-snap_hap/FinalGenoEcol_long_int.csv", header=T)
+str(all_samples)
+cols2keep <- c("PlantID_final", "Latitude", "Longitude", "Altitude")
+all_samples <- all_samples[, ..cols2keep]
+colnames(all_samples) <- c("PlantID", "Latitude", "Longitude", "Altitude")
+```
+
+```{r}
+field2021_samples <- fread("~/Projects/2021-snap_fieldwork/coords_2021_final/2021_AllGPS_PipelineReady_AP.csv", header=T)
+str(field2021_samples)
+cols2keep <- c("Plant.ID_cap", "Latitude", "Longitude", "Altitude")
+field2021_samples <- field2021_samples[, ..cols2keep]
+colnames(field2021_samples) <- c("PlantID", "Latitude", "Longitude", "Altitude")
+str(field2021_samples)
+```
+
+```{r}
+merge1 <- merge(haplo_samples, field2021_samples, by = "PlantID", all.x = TRUE)
+merge2 <- merge(merge1, all_samples, by = "PlantID", all.x = TRUE)
+```
+
+```{r}
+fwrite(merge2, "haplo_samples.csv", quote = F, sep = ",", row.names = F, col.names = T)
+```
+
+

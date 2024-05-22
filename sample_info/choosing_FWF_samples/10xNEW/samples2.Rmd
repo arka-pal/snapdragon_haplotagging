@@ -1,0 +1,48 @@
+---
+title: "Haplotagging Samples"
+output: html_notebook
+---
+
+```{r}
+library("data.table")
+library("tidyverse")
+```
+
+```{r}
+haplo_samples <- fread("~/Projects/2021-snap_hap/haplo_samples.csv", header = T)
+str(haplo_samples)
+```
+
+```{r}
+plot_theme <- theme_bw() + theme(panel.grid = element_blank())
+
+mainPlot <- ggplot() + 
+  geom_point(aes(Longitude, Latitude), haplo_samples[batch == "n96"], col = "green", pch = 5, cex = 1) +
+  geom_point(aes(Longitude, Latitude), haplo_samples[batch == "TRIO"], col = "darkgreen", pch = 5, cex = 1) +
+  geom_point(aes(Longitude, Latitude), haplo_samples[batch == "2x"], col = "grey", pch = 1, cex = 2) +
+  geom_point(aes(Longitude, Latitude), haplo_samples[batch == "60x"], col = "red", pch = 19, cex = 2) +
+  geom_point(aes(Longitude, Latitude), haplo_samples[batch == "10x"], col = "blue", pch = 2, cex = 2) +
+  geom_vline(xintercept = c(2.051, 2.056, 2.061, 2.066), col = "gold2") +
+  geom_vline(xintercept = c(2.083, 2.087, 2.093, 2.098), col = "magenta") +
+  plot_theme
+
+mainPlot
+```
+```{r}
+MEGA_haplo_samples <- haplo_samples[batch %in% c("2x", "10x", "60x")]
+
+haplo_samples$Pool <- "NA"
+haplo_samples[batch %in% c("2x", "10x", "60x") & Longitude >= 2.051 & Longitude < 2.056]$Pool <- "YF3"
+haplo_samples[batch %in% c("2x", "10x", "60x") & Longitude >= 2.056 & Longitude < 2.061]$Pool <- "YF2"
+haplo_samples[batch %in% c("2x", "10x", "60x") & Longitude >= 2.061 & Longitude < 2.066]$Pool <- "YF1"
+haplo_samples[batch %in% c("2x", "10x", "60x") & Longitude >= 2.066 & Longitude < 2.083]$Pool <- "core"
+haplo_samples[batch %in% c("2x", "10x", "60x") & Longitude >= 2.083 & Longitude < 2.087]$Pool <- "MF1"
+haplo_samples[batch %in% c("2x", "10x", "60x") & Longitude >= 2.087 & Longitude < 2.093]$Pool <- "MF2"
+haplo_samples[batch %in% c("2x", "10x", "60x") & Longitude >= 2.093 & Longitude < 2.098]$Pool <- "MF3"
+```
+
+
+```{r}
+fwrite(haplo_samples, "haplo_samples_withPools.csv", quote = F, col.names = T, sep = ",", row.names = F)
+```
+
