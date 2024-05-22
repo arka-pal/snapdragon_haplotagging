@@ -1,0 +1,20 @@
+
+VCFtools - 0.1.16
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--gzvcf /nfs/scistore18/bartogrp/apal/snap_hap/variants/stitch/Chr5/Am_all_stitchRun1_Chr5.final.vcf.gz
+	--keep /nfs/scistore18/bartogrp/apal/snap_hap/genome_scans/samples/sampleNames_MF.txt
+	--out /nfs/scistore18/bartogrp/apal/snap_hap/genome_scans/popgenStats/MF_Chr5_pi
+	--site-pi
+
+Using zlib version: 1.2.13
+Warning: Expected at least 2 parts in FORMAT entry: ID=GP,Number=3,Type=Float,Description="Posterior genotype probability of 0/0, 0/1, and 1/1">
+Warning: Expected at least 2 parts in FORMAT entry: ID=GP,Number=3,Type=Float,Description="Posterior genotype probability of 0/0, 0/1, and 1/1">
+Warning: Expected at least 2 parts in INFO entry: ID=AC,Number=A,Type=Integer,Description="Allele count in genotypes for each ALT allele, in the same order as listed">
+Warning: Expected at least 2 parts in FORMAT entry: ID=PL,Number=G,Type=Integer,Description="Normalized, Phred-scaled likelihoods for genotypes as defined in the VCF specification">
+Keeping individuals in 'keep' list
+After filtering, kept 75 out of 1074 Individuals
+Outputting Per-Site Nucleotide Diversity Statistics...
+After filtering, kept 3277515 out of a possible 3277515 Sites
+Run Time = 540.00 seconds

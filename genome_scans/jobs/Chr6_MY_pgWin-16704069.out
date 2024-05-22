@@ -1,0 +1,92 @@
+
+Starting 5 worker threads
+/mnt/nfs/clustersw/Debian/bookworm/python/3.11.4/lib/python3.11/site-packages/numpy/core/fromnumeric.py:3464: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/mnt/nfs/clustersw/Debian/bookworm/python/3.11.4/lib/python3.11/site-packages/numpy/core/_methods.py:192: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+/nfs/scistore18/bartogrp/apal/genomics_general/genomics.py:979: RuntimeWarning: invalid value encountered in scalar divide
+  output["Fst_" + pops[x] + "_" + pops[y]] = output["Fst_" + pops[y] + "_" + pops[x]] = 1 - pi_s/pi_t
+
+44 windows queued, 31 results received, 30 results written.
+/nfs/scistore18/bartogrp/apal/genomics_general/genomics.py:979: RuntimeWarning: invalid value encountered in scalar divide
+  output["Fst_" + pops[x] + "_" + pops[y]] = output["Fst_" + pops[y] + "_" + pops[x]] = 1 - pi_s/pi_t
+/mnt/nfs/clustersw/Debian/bookworm/python/3.11.4/lib/python3.11/site-packages/numpy/core/fromnumeric.py:3464: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/mnt/nfs/clustersw/Debian/bookworm/python/3.11.4/lib/python3.11/site-packages/numpy/core/_methods.py:192: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+/mnt/nfs/clustersw/Debian/bookworm/python/3.11.4/lib/python3.11/site-packages/numpy/core/fromnumeric.py:3464: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/mnt/nfs/clustersw/Debian/bookworm/python/3.11.4/lib/python3.11/site-packages/numpy/core/_methods.py:192: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+
+79 windows queued, 66 results received, 66 results written.
+
+110 windows queued, 97 results received, 97 results written.
+/mnt/nfs/clustersw/Debian/bookworm/python/3.11.4/lib/python3.11/site-packages/numpy/core/fromnumeric.py:3464: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/mnt/nfs/clustersw/Debian/bookworm/python/3.11.4/lib/python3.11/site-packages/numpy/core/_methods.py:192: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+
+145 windows queued, 132 results received, 132 results written.
+
+177 windows queued, 164 results received, 163 results written.
+/nfs/scistore18/bartogrp/apal/genomics_general/genomics.py:979: RuntimeWarning: invalid value encountered in scalar divide
+  output["Fst_" + pops[x] + "_" + pops[y]] = output["Fst_" + pops[y] + "_" + pops[x]] = 1 - pi_s/pi_t
+/nfs/scistore18/bartogrp/apal/genomics_general/genomics.py:979: RuntimeWarning: invalid value encountered in scalar divide
+  output["Fst_" + pops[x] + "_" + pops[y]] = output["Fst_" + pops[y] + "_" + pops[x]] = 1 - pi_s/pi_t
+/nfs/scistore18/bartogrp/apal/genomics_general/genomics.py:979: RuntimeWarning: invalid value encountered in scalar divide
+  output["Fst_" + pops[x] + "_" + pops[y]] = output["Fst_" + pops[y] + "_" + pops[x]] = 1 - pi_s/pi_t
+
+212 windows queued, 199 results received, 199 results written.
+
+247 windows queued, 234 results received, 234 results written.
+
+278 windows queued, 265 results received, 265 results written.
+
+314 windows queued, 301 results received, 301 results written.
+
+347 windows queued, 334 results received, 333 results written.
+
+380 windows queued, 367 results received, 367 results written.
+
+416 windows queued, 403 results received, 402 results written.
+
+449 windows queued, 436 results received, 435 results written.
+
+483 windows queued, 470 results received, 469 results written.
+
+517 windows queued, 504 results received, 504 results written.
+
+551 windows queued, 538 results received, 537 results written.
+
+586 windows queued, 573 results received, 573 results written.
+
+618 windows queued, 605 results received, 604 results written.
+
+652 windows queued, 639 results received, 638 results written.
+
+687 windows queued, 674 results received, 674 results written.
+
+721 windows queued, 708 results received, 707 results written.
+
+754 windows queued, 741 results received, 740 results written.
+
+789 windows queued, 776 results received, 776 results written.
+
+822 windows queued, 809 results received, 808 results written.
+
+856 windows queued, 843 results received, 842 results written.
+
+891 windows queued, 878 results received, 878 results written.
+
+924 windows queued, 911 results received, 910 results written.
+
+958 windows queued, 945 results received, 944 results written.
+
+993 windows queued, 980 results received, 980 results written.
+
+Waiting for all threads to finish
+999 windows were tested.
+999 results were written.
+
+Done.

@@ -1,0 +1,4327 @@
+
+Starting 5 worker threads
+/nfs/scistore18/bartogrp/apal/genomics_general/genomics.py:979: RuntimeWarning: invalid value encountered in scalar divide
+  output["Fst_" + pops[x] + "_" + pops[y]] = output["Fst_" + pops[y] + "_" + pops[x]] = 1 - pi_s/pi_t
+
+41 windows queued, 28 results received, 28 results written.
+/nfs/scistore18/bartogrp/apal/genomics_general/genomics.py:979: RuntimeWarning: invalid value encountered in scalar divide
+  output["Fst_" + pops[x] + "_" + pops[y]] = output["Fst_" + pops[y] + "_" + pops[x]] = 1 - pi_s/pi_t
+
+72 windows queued, 59 results received, 58 results written.
+/mnt/nfs/clustersw/Debian/bookworm/python/3.11.4/lib/python3.11/site-packages/numpy/core/fromnumeric.py:3464: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/mnt/nfs/clustersw/Debian/bookworm/python/3.11.4/lib/python3.11/site-packages/numpy/core/_methods.py:192: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+/nfs/scistore18/bartogrp/apal/genomics_general/genomics.py:979: RuntimeWarning: invalid value encountered in scalar divide
+  output["Fst_" + pops[x] + "_" + pops[y]] = output["Fst_" + pops[y] + "_" + pops[x]] = 1 - pi_s/pi_t
+
+103 windows queued, 90 results received, 88 results written.
+/mnt/nfs/clustersw/Debian/bookworm/python/3.11.4/lib/python3.11/site-packages/numpy/core/fromnumeric.py:3464: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/mnt/nfs/clustersw/Debian/bookworm/python/3.11.4/lib/python3.11/site-packages/numpy/core/_methods.py:192: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+/mnt/nfs/clustersw/Debian/bookworm/python/3.11.4/lib/python3.11/site-packages/numpy/core/fromnumeric.py:3464: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/mnt/nfs/clustersw/Debian/bookworm/python/3.11.4/lib/python3.11/site-packages/numpy/core/_methods.py:192: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+/mnt/nfs/clustersw/Debian/bookworm/python/3.11.4/lib/python3.11/site-packages/numpy/core/fromnumeric.py:3464: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/mnt/nfs/clustersw/Debian/bookworm/python/3.11.4/lib/python3.11/site-packages/numpy/core/_methods.py:192: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+
+130 windows queued, 117 results received, 116 results written.
+
+160 windows queued, 147 results received, 144 results written.
+
+188 windows queued, 175 results received, 174 results written.
+/nfs/scistore18/bartogrp/apal/genomics_general/genomics.py:979: RuntimeWarning: invalid value encountered in scalar divide
+  output["Fst_" + pops[x] + "_" + pops[y]] = output["Fst_" + pops[y] + "_" + pops[x]] = 1 - pi_s/pi_t
+
+216 windows queued, 203 results received, 202 results written.
+
+246 windows queued, 233 results received, 232 results written.
+
+273 windows queued, 260 results received, 259 results written.
+/mnt/nfs/clustersw/Debian/bookworm/python/3.11.4/lib/python3.11/site-packages/numpy/core/fromnumeric.py:3464: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/mnt/nfs/clustersw/Debian/bookworm/python/3.11.4/lib/python3.11/site-packages/numpy/core/_methods.py:192: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+
+302 windows queued, 289 results received, 287 results written.
+
+331 windows queued, 318 results received, 317 results written.
+/nfs/scistore18/bartogrp/apal/genomics_general/genomics.py:979: RuntimeWarning: invalid value encountered in scalar divide
+  output["Fst_" + pops[x] + "_" + pops[y]] = output["Fst_" + pops[y] + "_" + pops[x]] = 1 - pi_s/pi_t
+
+359 windows queued, 346 results received, 345 results written.
+
+388 windows queued, 375 results received, 375 results written.
+
+416 windows queued, 403 results received, 403 results written.
+
+444 windows queued, 431 results received, 430 results written.
+
+474 windows queued, 461 results received, 460 results written.
+
+501 windows queued, 488 results received, 488 results written.
+
+530 windows queued, 517 results received, 516 results written.
+
+560 windows queued, 547 results received, 547 results written.
+
+588 windows queued, 575 results received, 574 results written.
+
+618 windows queued, 605 results received, 603 results written.
+
+646 windows queued, 633 results received, 632 results written.
+
+673 windows queued, 660 results received, 659 results written.
+
+703 windows queued, 690 results received, 689 results written.
+
+730 windows queued, 717 results received, 716 results written.
+
+760 windows queued, 747 results received, 745 results written.
+
+788 windows queued, 775 results received, 773 results written.
+
+818 windows queued, 805 results received, 805 results written.
+
+846 windows queued, 833 results received, 833 results written.
+
+874 windows queued, 861 results received, 861 results written.
+
+905 windows queued, 892 results received, 892 results written.
+
+933 windows queued, 920 results received, 919 results written.
+
+962 windows queued, 949 results received, 948 results written.
+
+992 windows queued, 979 results received, 978 results written.
+
+1019 windows queued, 1006 results received, 1006 results written.
+
+1047 windows queued, 1034 results received, 1034 results written.
+
+1078 windows queued, 1065 results received, 1065 results written.
+
+1106 windows queued, 1093 results received, 1093 results written.
+
+1134 windows queued, 1121 results received, 1120 results written.
+
+1163 windows queued, 1150 results received, 1150 results written.
+
+1192 windows queued, 1179 results received, 1178 results written.
+
+1221 windows queued, 1208 results received, 1207 results written.
+
+1249 windows queued, 1236 results received, 1235 results written.
+
+1278 windows queued, 1265 results received, 1264 results written.
+
+1308 windows queued, 1295 results received, 1295 results written.
+
+1335 windows queued, 1322 results received, 1322 results written.
+
+1364 windows queued, 1351 results received, 1350 results written.
+
+1393 windows queued, 1380 results received, 1380 results written.
+
+1421 windows queued, 1408 results received, 1407 results written.
+
+1450 windows queued, 1437 results received, 1437 results written.
+
+1478 windows queued, 1465 results received, 1465 results written.
+
+1506 windows queued, 1493 results received, 1492 results written.
+
+1536 windows queued, 1523 results received, 1523 results written.
+
+1563 windows queued, 1550 results received, 1550 results written.
+
+1591 windows queued, 1578 results received, 1578 results written.
+
+1621 windows queued, 1608 results received, 1608 results written.
+
+1650 windows queued, 1637 results received, 1637 results written.
+
+1679 windows queued, 1666 results received, 1665 results written.
+
+1708 windows queued, 1695 results received, 1695 results written.
+
+1737 windows queued, 1724 results received, 1724 results written.
+
+1766 windows queued, 1753 results received, 1753 results written.
+
+1796 windows queued, 1783 results received, 1783 results written.
+
+1825 windows queued, 1812 results received, 1812 results written.
+
+1855 windows queued, 1842 results received, 1841 results written.
+
+1883 windows queued, 1870 results received, 1870 results written.
+
+1911 windows queued, 1898 results received, 1898 results written.
+
+1941 windows queued, 1928 results received, 1928 results written.
+
+1970 windows queued, 1957 results received, 1957 results written.
+
+1997 windows queued, 1984 results received, 1984 results written.
+
+2026 windows queued, 2013 results received, 2012 results written.
+
+2056 windows queued, 2043 results received, 2043 results written.
+
+2085 windows queued, 2072 results received, 2071 results written.
+
+2113 windows queued, 2100 results received, 2100 results written.
+
+2143 windows queued, 2130 results received, 2129 results written.
+
+2170 windows queued, 2157 results received, 2157 results written.
+
+2200 windows queued, 2187 results received, 2187 results written.
+
+2229 windows queued, 2216 results received, 2216 results written.
+
+2257 windows queued, 2244 results received, 2244 results written.
+
+2286 windows queued, 2273 results received, 2272 results written.
+
+2315 windows queued, 2302 results received, 2301 results written.
+
+2343 windows queued, 2330 results received, 2330 results written.
+
+2371 windows queued, 2358 results received, 2358 results written.
+
+2401 windows queued, 2388 results received, 2387 results written.
+
+2430 windows queued, 2417 results received, 2417 results written.
+
+2458 windows queued, 2445 results received, 2443 results written.
+
+2487 windows queued, 2474 results received, 2471 results written.
+
+2515 windows queued, 2502 results received, 2500 results written.
+
+2544 windows queued, 2531 results received, 2529 results written.
+
+2572 windows queued, 2559 results received, 2557 results written.
+
+2602 windows queued, 2589 results received, 2589 results written.
+
+2630 windows queued, 2617 results received, 2615 results written.
+
+2657 windows queued, 2644 results received, 2642 results written.
+
+2688 windows queued, 2675 results received, 2675 results written.
+
+2717 windows queued, 2704 results received, 2704 results written.
+
+2744 windows queued, 2731 results received, 2731 results written.
+
+2774 windows queued, 2761 results received, 2760 results written.
+
+2802 windows queued, 2789 results received, 2789 results written.
+
+2830 windows queued, 2817 results received, 2817 results written.
+
+2860 windows queued, 2847 results received, 2847 results written.
+
+2890 windows queued, 2877 results received, 2877 results written.
+
+2918 windows queued, 2905 results received, 2904 results written.
+
+2948 windows queued, 2935 results received, 2935 results written.
+
+2977 windows queued, 2964 results received, 2964 results written.
+
+3005 windows queued, 2992 results received, 2992 results written.
+
+3035 windows queued, 3022 results received, 3022 results written.
+
+3064 windows queued, 3051 results received, 3051 results written.
+
+3093 windows queued, 3080 results received, 3080 results written.
+
+3123 windows queued, 3110 results received, 3110 results written.
+
+3152 windows queued, 3139 results received, 3138 results written.
+
+3180 windows queued, 3167 results received, 3167 results written.
+
+3210 windows queued, 3197 results received, 3197 results written.
+
+3239 windows queued, 3226 results received, 3226 results written.
+
+3268 windows queued, 3255 results received, 3255 results written.
+
+3297 windows queued, 3284 results received, 3283 results written.
+
+3325 windows queued, 3312 results received, 3312 results written.
+
+3353 windows queued, 3340 results received, 3339 results written.
+
+3382 windows queued, 3369 results received, 3368 results written.
+
+3411 windows queued, 3398 results received, 3397 results written.
+
+3439 windows queued, 3426 results received, 3425 results written.
+
+3468 windows queued, 3455 results received, 3454 results written.
+
+3496 windows queued, 3483 results received, 3482 results written.
+
+3524 windows queued, 3511 results received, 3510 results written.
+
+3553 windows queued, 3540 results received, 3540 results written.
+
+3581 windows queued, 3568 results received, 3567 results written.
+
+3610 windows queued, 3597 results received, 3596 results written.
+
+3638 windows queued, 3625 results received, 3625 results written.
+
+3666 windows queued, 3653 results received, 3653 results written.
+
+3696 windows queued, 3683 results received, 3683 results written.
+
+3725 windows queued, 3712 results received, 3710 results written.
+
+3752 windows queued, 3739 results received, 3738 results written.
+
+3782 windows queued, 3769 results received, 3768 results written.
+
+3810 windows queued, 3797 results received, 3796 results written.
+
+3838 windows queued, 3825 results received, 3824 results written.
+
+3867 windows queued, 3854 results received, 3853 results written.
+
+3896 windows queued, 3883 results received, 3883 results written.
+
+3926 windows queued, 3913 results received, 3913 results written.
+
+3955 windows queued, 3942 results received, 3942 results written.
+
+3984 windows queued, 3971 results received, 3971 results written.
+
+4013 windows queued, 4000 results received, 3999 results written.
+
+4041 windows queued, 4028 results received, 4027 results written.
+
+4069 windows queued, 4056 results received, 4055 results written.
+
+4098 windows queued, 4085 results received, 4084 results written.
+
+4127 windows queued, 4114 results received, 4113 results written.
+
+4155 windows queued, 4142 results received, 4141 results written.
+
+4184 windows queued, 4171 results received, 4170 results written.
+
+4212 windows queued, 4199 results received, 4199 results written.
+
+4240 windows queued, 4227 results received, 4227 results written.
+
+4270 windows queued, 4257 results received, 4257 results written.
+
+4298 windows queued, 4285 results received, 4285 results written.
+
+4326 windows queued, 4313 results received, 4312 results written.
+
+4356 windows queued, 4343 results received, 4343 results written.
+
+4384 windows queued, 4371 results received, 4371 results written.
+
+4412 windows queued, 4399 results received, 4398 results written.
+
+4441 windows queued, 4428 results received, 4425 results written.
+
+4469 windows queued, 4456 results received, 4454 results written.
+
+4496 windows queued, 4483 results received, 4481 results written.
+
+4526 windows queued, 4513 results received, 4511 results written.
+
+4554 windows queued, 4541 results received, 4541 results written.
+
+4584 windows queued, 4571 results received, 4571 results written.
+
+4614 windows queued, 4601 results received, 4601 results written.
+
+4642 windows queued, 4629 results received, 4628 results written.
+
+4672 windows queued, 4659 results received, 4658 results written.
+
+4701 windows queued, 4688 results received, 4688 results written.
+
+4729 windows queued, 4716 results received, 4716 results written.
+
+4758 windows queued, 4745 results received, 4745 results written.
+
+4788 windows queued, 4775 results received, 4775 results written.
+
+4816 windows queued, 4803 results received, 4803 results written.
+
+4846 windows queued, 4833 results received, 4832 results written.
+
+4876 windows queued, 4863 results received, 4863 results written.
+
+4903 windows queued, 4890 results received, 4890 results written.
+
+4932 windows queued, 4919 results received, 4918 results written.
+
+4961 windows queued, 4948 results received, 4948 results written.
+
+4988 windows queued, 4975 results received, 4975 results written.
+
+5018 windows queued, 5005 results received, 5005 results written.
+
+5046 windows queued, 5033 results received, 5032 results written.
+
+5074 windows queued, 5061 results received, 5061 results written.
+
+5103 windows queued, 5090 results received, 5090 results written.
+
+5131 windows queued, 5118 results received, 5118 results written.
+
+5160 windows queued, 5147 results received, 5146 results written.
+
+5188 windows queued, 5175 results received, 5174 results written.
+
+5216 windows queued, 5203 results received, 5202 results written.
+
+5246 windows queued, 5233 results received, 5232 results written.
+
+5273 windows queued, 5260 results received, 5259 results written.
+
+5302 windows queued, 5289 results received, 5288 results written.
+
+5330 windows queued, 5317 results received, 5316 results written.
+
+5359 windows queued, 5346 results received, 5346 results written.
+
+5388 windows queued, 5375 results received, 5374 results written.
+
+5417 windows queued, 5404 results received, 5403 results written.
+
+5446 windows queued, 5433 results received, 5433 results written.
+
+5474 windows queued, 5461 results received, 5460 results written.
+
+5502 windows queued, 5489 results received, 5489 results written.
+
+5533 windows queued, 5520 results received, 5517 results written.
+
+5560 windows queued, 5547 results received, 5546 results written.
+
+5589 windows queued, 5576 results received, 5575 results written.
+
+5617 windows queued, 5604 results received, 5602 results written.
+
+5645 windows queued, 5632 results received, 5631 results written.
+
+5674 windows queued, 5661 results received, 5660 results written.
+
+5702 windows queued, 5689 results received, 5687 results written.
+
+5731 windows queued, 5718 results received, 5715 results written.
+
+5759 windows queued, 5746 results received, 5744 results written.
+
+5788 windows queued, 5775 results received, 5774 results written.
+
+5817 windows queued, 5804 results received, 5803 results written.
+
+5846 windows queued, 5833 results received, 5833 results written.
+
+5873 windows queued, 5860 results received, 5860 results written.
+
+5903 windows queued, 5890 results received, 5890 results written.
+
+5932 windows queued, 5919 results received, 5918 results written.
+
+5960 windows queued, 5947 results received, 5945 results written.
+
+5989 windows queued, 5976 results received, 5975 results written.
+
+6016 windows queued, 6003 results received, 6002 results written.
+
+6045 windows queued, 6032 results received, 6030 results written.
+
+6074 windows queued, 6061 results received, 6060 results written.
+
+6102 windows queued, 6089 results received, 6088 results written.
+
+6131 windows queued, 6118 results received, 6115 results written.
+
+6160 windows queued, 6147 results received, 6144 results written.
+
+6188 windows queued, 6175 results received, 6173 results written.
+
+6215 windows queued, 6202 results received, 6201 results written.
+
+6246 windows queued, 6233 results received, 6233 results written.
+
+6276 windows queued, 6263 results received, 6263 results written.
+
+6304 windows queued, 6291 results received, 6290 results written.
+
+6333 windows queued, 6320 results received, 6320 results written.
+
+6363 windows queued, 6350 results received, 6350 results written.
+
+6391 windows queued, 6378 results received, 6377 results written.
+
+6420 windows queued, 6407 results received, 6407 results written.
+
+6448 windows queued, 6435 results received, 6435 results written.
+
+6476 windows queued, 6463 results received, 6462 results written.
+
+6506 windows queued, 6493 results received, 6492 results written.
+
+6533 windows queued, 6520 results received, 6520 results written.
+
+6562 windows queued, 6549 results received, 6548 results written.
+
+6590 windows queued, 6577 results received, 6577 results written.
+
+6618 windows queued, 6605 results received, 6604 results written.
+
+6647 windows queued, 6634 results received, 6634 results written.
+
+6676 windows queued, 6663 results received, 6663 results written.
+
+6704 windows queued, 6691 results received, 6690 results written.
+
+6732 windows queued, 6719 results received, 6719 results written.
+
+6761 windows queued, 6748 results received, 6748 results written.
+
+6789 windows queued, 6776 results received, 6775 results written.
+
+6817 windows queued, 6804 results received, 6803 results written.
+
+6848 windows queued, 6835 results received, 6835 results written.
+
+6875 windows queued, 6862 results received, 6861 results written.
+
+6905 windows queued, 6892 results received, 6889 results written.
+
+6933 windows queued, 6920 results received, 6919 results written.
+
+6962 windows queued, 6949 results received, 6949 results written.
+
+6992 windows queued, 6979 results received, 6979 results written.
+
+7022 windows queued, 7009 results received, 7009 results written.
+
+7050 windows queued, 7037 results received, 7036 results written.
+
+7080 windows queued, 7067 results received, 7066 results written.
+
+7108 windows queued, 7095 results received, 7094 results written.
+
+7136 windows queued, 7123 results received, 7122 results written.
+
+7165 windows queued, 7152 results received, 7151 results written.
+
+7193 windows queued, 7180 results received, 7179 results written.
+
+7222 windows queued, 7209 results received, 7207 results written.
+
+7251 windows queued, 7238 results received, 7236 results written.
+
+7280 windows queued, 7267 results received, 7267 results written.
+
+7310 windows queued, 7297 results received, 7296 results written.
+
+7338 windows queued, 7325 results received, 7324 results written.
+
+7365 windows queued, 7352 results received, 7352 results written.
+
+7396 windows queued, 7383 results received, 7382 results written.
+
+7424 windows queued, 7411 results received, 7411 results written.
+
+7452 windows queued, 7439 results received, 7439 results written.
+
+7483 windows queued, 7470 results received, 7470 results written.
+
+7511 windows queued, 7498 results received, 7497 results written.
+
+7539 windows queued, 7526 results received, 7526 results written.
+
+7570 windows queued, 7557 results received, 7557 results written.
+
+7598 windows queued, 7585 results received, 7585 results written.
+
+7628 windows queued, 7615 results received, 7612 results written.
+
+7656 windows queued, 7643 results received, 7642 results written.
+
+7685 windows queued, 7672 results received, 7672 results written.
+
+7715 windows queued, 7702 results received, 7701 results written.
+
+7744 windows queued, 7731 results received, 7731 results written.
+
+7773 windows queued, 7760 results received, 7756 results written.
+
+7801 windows queued, 7788 results received, 7787 results written.
+
+7830 windows queued, 7817 results received, 7816 results written.
+
+7859 windows queued, 7846 results received, 7846 results written.
+
+7886 windows queued, 7873 results received, 7873 results written.
+
+7915 windows queued, 7902 results received, 7902 results written.
+
+7943 windows queued, 7930 results received, 7930 results written.
+
+7972 windows queued, 7959 results received, 7959 results written.
+
+8001 windows queued, 7988 results received, 7988 results written.
+
+8029 windows queued, 8016 results received, 8015 results written.
+
+8058 windows queued, 8045 results received, 8044 results written.
+
+8087 windows queued, 8074 results received, 8073 results written.
+
+8114 windows queued, 8101 results received, 8101 results written.
+
+8145 windows queued, 8132 results received, 8132 results written.
+
+8172 windows queued, 8159 results received, 8158 results written.
+
+8203 windows queued, 8190 results received, 8190 results written.
+
+8232 windows queued, 8219 results received, 8219 results written.
+
+8259 windows queued, 8246 results received, 8246 results written.
+
+8289 windows queued, 8276 results received, 8276 results written.
+
+8317 windows queued, 8304 results received, 8304 results written.
+
+8345 windows queued, 8332 results received, 8331 results written.
+
+8375 windows queued, 8362 results received, 8362 results written.
+
+8403 windows queued, 8390 results received, 8390 results written.
+
+8432 windows queued, 8419 results received, 8418 results written.
+
+8461 windows queued, 8448 results received, 8447 results written.
+
+8490 windows queued, 8477 results received, 8476 results written.
+
+8518 windows queued, 8505 results received, 8505 results written.
+
+8546 windows queued, 8533 results received, 8531 results written.
+
+8576 windows queued, 8563 results received, 8563 results written.
+
+8604 windows queued, 8591 results received, 8591 results written.
+
+8632 windows queued, 8619 results received, 8618 results written.
+
+8662 windows queued, 8649 results received, 8648 results written.
+
+8690 windows queued, 8677 results received, 8675 results written.
+
+8718 windows queued, 8705 results received, 8703 results written.
+
+8747 windows queued, 8734 results received, 8733 results written.
+
+8775 windows queued, 8762 results received, 8760 results written.
+
+8804 windows queued, 8791 results received, 8789 results written.
+
+8831 windows queued, 8818 results received, 8817 results written.
+
+8861 windows queued, 8848 results received, 8846 results written.
+
+8889 windows queued, 8876 results received, 8876 results written.
+
+8919 windows queued, 8906 results received, 8906 results written.
+
+8949 windows queued, 8936 results received, 8936 results written.
+
+8977 windows queued, 8964 results received, 8963 results written.
+
+9007 windows queued, 8994 results received, 8993 results written.
+
+9037 windows queued, 9024 results received, 9024 results written.
+
+9064 windows queued, 9051 results received, 9051 results written.
+
+9095 windows queued, 9082 results received, 9082 results written.
+
+9124 windows queued, 9111 results received, 9110 results written.
+
+9151 windows queued, 9138 results received, 9138 results written.
+
+9180 windows queued, 9167 results received, 9167 results written.
+
+9209 windows queued, 9196 results received, 9196 results written.
+
+9237 windows queued, 9224 results received, 9223 results written.
+
+9266 windows queued, 9253 results received, 9252 results written.
+
+9295 windows queued, 9282 results received, 9281 results written.
+
+9323 windows queued, 9310 results received, 9308 results written.
+
+9352 windows queued, 9339 results received, 9336 results written.
+
+9380 windows queued, 9367 results received, 9367 results written.
+
+9411 windows queued, 9398 results received, 9398 results written.
+
+9440 windows queued, 9427 results received, 9427 results written.
+
+9468 windows queued, 9455 results received, 9454 results written.
+
+9499 windows queued, 9486 results received, 9485 results written.
+
+9527 windows queued, 9514 results received, 9514 results written.
+
+9557 windows queued, 9544 results received, 9544 results written.
+
+9586 windows queued, 9573 results received, 9573 results written.
+
+9615 windows queued, 9602 results received, 9602 results written.
+
+9645 windows queued, 9632 results received, 9632 results written.
+
+9673 windows queued, 9660 results received, 9659 results written.
+
+9701 windows queued, 9688 results received, 9687 results written.
+
+9731 windows queued, 9718 results received, 9717 results written.
+
+9758 windows queued, 9745 results received, 9745 results written.
+
+9787 windows queued, 9774 results received, 9772 results written.
+
+9816 windows queued, 9803 results received, 9802 results written.
+
+9844 windows queued, 9831 results received, 9829 results written.
+
+9872 windows queued, 9859 results received, 9858 results written.
+
+9901 windows queued, 9888 results received, 9887 results written.
+
+9931 windows queued, 9918 results received, 9918 results written.
+
+9958 windows queued, 9945 results received, 9943 results written.
+
+9986 windows queued, 9973 results received, 9972 results written.
+
+10017 windows queued, 10004 results received, 10004 results written.
+
+10045 windows queued, 10032 results received, 10031 results written.
+
+10074 windows queued, 10061 results received, 10060 results written.
+
+10102 windows queued, 10089 results received, 10088 results written.
+
+10130 windows queued, 10117 results received, 10116 results written.
+
+10161 windows queued, 10148 results received, 10148 results written.
+
+10188 windows queued, 10175 results received, 10175 results written.
+
+10216 windows queued, 10203 results received, 10203 results written.
+
+10247 windows queued, 10234 results received, 10234 results written.
+
+10276 windows queued, 10263 results received, 10263 results written.
+
+10305 windows queued, 10292 results received, 10291 results written.
+
+10334 windows queued, 10321 results received, 10321 results written.
+
+10362 windows queued, 10349 results received, 10349 results written.
+
+10391 windows queued, 10378 results received, 10377 results written.
+
+10420 windows queued, 10407 results received, 10406 results written.
+
+10448 windows queued, 10435 results received, 10434 results written.
+
+10476 windows queued, 10463 results received, 10462 results written.
+
+10505 windows queued, 10492 results received, 10491 results written.
+
+10533 windows queued, 10520 results received, 10519 results written.
+
+10563 windows queued, 10550 results received, 10550 results written.
+
+10590 windows queued, 10577 results received, 10577 results written.
+
+10620 windows queued, 10607 results received, 10606 results written.
+
+10648 windows queued, 10635 results received, 10634 results written.
+
+10677 windows queued, 10664 results received, 10661 results written.
+
+10706 windows queued, 10693 results received, 10693 results written.
+
+10735 windows queued, 10722 results received, 10722 results written.
+
+10765 windows queued, 10752 results received, 10752 results written.
+
+10793 windows queued, 10780 results received, 10780 results written.
+
+10821 windows queued, 10808 results received, 10807 results written.
+
+10851 windows queued, 10838 results received, 10838 results written.
+
+10879 windows queued, 10866 results received, 10866 results written.
+
+10907 windows queued, 10894 results received, 10893 results written.
+
+10937 windows queued, 10924 results received, 10923 results written.
+
+10964 windows queued, 10951 results received, 10951 results written.
+
+10992 windows queued, 10979 results received, 10978 results written.
+
+11022 windows queued, 11009 results received, 11009 results written.
+
+11050 windows queued, 11037 results received, 11036 results written.
+
+11079 windows queued, 11066 results received, 11065 results written.
+
+11107 windows queued, 11094 results received, 11094 results written.
+
+11137 windows queued, 11124 results received, 11124 results written.
+
+11166 windows queued, 11153 results received, 11153 results written.
+
+11195 windows queued, 11182 results received, 11182 results written.
+
+11225 windows queued, 11212 results received, 11212 results written.
+
+11253 windows queued, 11240 results received, 11239 results written.
+
+11284 windows queued, 11271 results received, 11271 results written.
+
+11312 windows queued, 11299 results received, 11297 results written.
+
+11340 windows queued, 11327 results received, 11326 results written.
+
+11369 windows queued, 11356 results received, 11354 results written.
+
+11396 windows queued, 11383 results received, 11382 results written.
+
+11426 windows queued, 11413 results received, 11410 results written.
+
+11454 windows queued, 11441 results received, 11440 results written.
+
+11482 windows queued, 11469 results received, 11467 results written.
+
+11511 windows queued, 11498 results received, 11496 results written.
+
+11539 windows queued, 11526 results received, 11525 results written.
+
+11568 windows queued, 11555 results received, 11553 results written.
+
+11596 windows queued, 11583 results received, 11583 results written.
+
+11626 windows queued, 11613 results received, 11613 results written.
+
+11655 windows queued, 11642 results received, 11642 results written.
+
+11683 windows queued, 11670 results received, 11670 results written.
+
+11711 windows queued, 11698 results received, 11697 results written.
+
+11741 windows queued, 11728 results received, 11727 results written.
+
+11768 windows queued, 11755 results received, 11755 results written.
+
+11797 windows queued, 11784 results received, 11784 results written.
+
+11827 windows queued, 11814 results received, 11813 results written.
+
+11855 windows queued, 11842 results received, 11842 results written.
+
+11885 windows queued, 11872 results received, 11872 results written.
+
+11914 windows queued, 11901 results received, 11901 results written.
+
+11942 windows queued, 11929 results received, 11927 results written.
+
+11971 windows queued, 11958 results received, 11958 results written.
+
+12001 windows queued, 11988 results received, 11988 results written.
+
+12030 windows queued, 12017 results received, 12017 results written.
+
+12058 windows queued, 12045 results received, 12043 results written.
+
+12087 windows queued, 12074 results received, 12071 results written.
+
+12116 windows queued, 12103 results received, 12103 results written.
+
+12144 windows queued, 12131 results received, 12131 results written.
+
+12173 windows queued, 12160 results received, 12158 results written.
+
+12201 windows queued, 12188 results received, 12187 results written.
+
+12230 windows queued, 12217 results received, 12217 results written.
+
+12258 windows queued, 12245 results received, 12244 results written.
+
+12288 windows queued, 12275 results received, 12275 results written.
+
+12316 windows queued, 12303 results received, 12303 results written.
+
+12345 windows queued, 12332 results received, 12332 results written.
+
+12375 windows queued, 12362 results received, 12362 results written.
+
+12403 windows queued, 12390 results received, 12389 results written.
+
+12431 windows queued, 12418 results received, 12417 results written.
+
+12460 windows queued, 12447 results received, 12445 results written.
+
+12489 windows queued, 12476 results received, 12476 results written.
+
+12518 windows queued, 12505 results received, 12504 results written.
+
+12546 windows queued, 12533 results received, 12532 results written.
+
+12576 windows queued, 12563 results received, 12561 results written.
+
+12604 windows queued, 12591 results received, 12589 results written.
+
+12632 windows queued, 12619 results received, 12617 results written.
+
+12661 windows queued, 12648 results received, 12648 results written.
+
+12690 windows queued, 12677 results received, 12677 results written.
+
+12718 windows queued, 12705 results received, 12704 results written.
+
+12746 windows queued, 12733 results received, 12732 results written.
+
+12775 windows queued, 12762 results received, 12762 results written.
+
+12803 windows queued, 12790 results received, 12789 results written.
+
+12832 windows queued, 12819 results received, 12818 results written.
+
+12860 windows queued, 12847 results received, 12847 results written.
+
+12888 windows queued, 12875 results received, 12875 results written.
+
+12918 windows queued, 12905 results received, 12905 results written.
+
+12945 windows queued, 12932 results received, 12932 results written.
+
+12974 windows queued, 12961 results received, 12961 results written.
+
+13005 windows queued, 12992 results received, 12992 results written.
+
+13033 windows queued, 13020 results received, 13020 results written.
+
+13063 windows queued, 13050 results received, 13049 results written.
+
+13091 windows queued, 13078 results received, 13077 results written.
+
+13119 windows queued, 13106 results received, 13105 results written.
+
+13148 windows queued, 13135 results received, 13132 results written.
+
+13176 windows queued, 13163 results received, 13162 results written.
+
+13204 windows queued, 13191 results received, 13190 results written.
+
+13234 windows queued, 13221 results received, 13217 results written.
+
+13262 windows queued, 13249 results received, 13249 results written.
+
+13292 windows queued, 13279 results received, 13279 results written.
+
+13320 windows queued, 13307 results received, 13306 results written.
+
+13348 windows queued, 13335 results received, 13334 results written.
+
+13378 windows queued, 13365 results received, 13364 results written.
+
+13405 windows queued, 13392 results received, 13391 results written.
+
+13433 windows queued, 13420 results received, 13419 results written.
+
+13463 windows queued, 13450 results received, 13448 results written.
+
+13490 windows queued, 13477 results received, 13476 results written.
+
+13519 windows queued, 13506 results received, 13504 results written.
+
+13548 windows queued, 13535 results received, 13535 results written.
+
+13576 windows queued, 13563 results received, 13562 results written.
+
+13606 windows queued, 13593 results received, 13593 results written.
+
+13634 windows queued, 13621 results received, 13620 results written.
+
+13663 windows queued, 13650 results received, 13649 results written.
+
+13691 windows queued, 13678 results received, 13678 results written.
+
+13719 windows queued, 13706 results received, 13705 results written.
+
+13749 windows queued, 13736 results received, 13734 results written.
+
+13777 windows queued, 13764 results received, 13763 results written.
+
+13804 windows queued, 13791 results received, 13790 results written.
+
+13834 windows queued, 13821 results received, 13819 results written.
+
+13862 windows queued, 13849 results received, 13848 results written.
+
+13890 windows queued, 13877 results received, 13875 results written.
+
+13920 windows queued, 13907 results received, 13907 results written.
+
+13948 windows queued, 13935 results received, 13935 results written.
+
+13977 windows queued, 13964 results received, 13963 results written.
+
+14006 windows queued, 13993 results received, 13992 results written.
+
+14033 windows queued, 14020 results received, 14020 results written.
+
+14063 windows queued, 14050 results received, 14049 results written.
+
+14091 windows queued, 14078 results received, 14077 results written.
+
+14119 windows queued, 14106 results received, 14105 results written.
+
+14147 windows queued, 14134 results received, 14133 results written.
+
+14176 windows queued, 14163 results received, 14161 results written.
+
+14205 windows queued, 14192 results received, 14190 results written.
+
+14234 windows queued, 14221 results received, 14221 results written.
+
+14263 windows queued, 14250 results received, 14249 results written.
+
+14291 windows queued, 14278 results received, 14277 results written.
+
+14319 windows queued, 14306 results received, 14306 results written.
+
+14347 windows queued, 14334 results received, 14333 results written.
+
+14376 windows queued, 14363 results received, 14362 results written.
+
+14405 windows queued, 14392 results received, 14391 results written.
+
+14433 windows queued, 14420 results received, 14419 results written.
+
+14462 windows queued, 14449 results received, 14448 results written.
+
+14490 windows queued, 14477 results received, 14475 results written.
+
+14518 windows queued, 14505 results received, 14504 results written.
+
+14547 windows queued, 14534 results received, 14532 results written.
+
+14575 windows queued, 14562 results received, 14561 results written.
+
+14605 windows queued, 14592 results received, 14591 results written.
+
+14633 windows queued, 14620 results received, 14619 results written.
+
+14661 windows queued, 14648 results received, 14648 results written.
+
+14690 windows queued, 14677 results received, 14677 results written.
+
+14718 windows queued, 14705 results received, 14704 results written.
+
+14747 windows queued, 14734 results received, 14733 results written.
+
+14776 windows queued, 14763 results received, 14761 results written.
+
+14804 windows queued, 14791 results received, 14789 results written.
+
+14832 windows queued, 14819 results received, 14817 results written.
+
+14862 windows queued, 14849 results received, 14849 results written.
+
+14890 windows queued, 14877 results received, 14876 results written.
+
+14918 windows queued, 14905 results received, 14905 results written.
+
+14947 windows queued, 14934 results received, 14934 results written.
+
+14975 windows queued, 14962 results received, 14961 results written.
+
+15004 windows queued, 14991 results received, 14990 results written.
+
+15031 windows queued, 15018 results received, 15018 results written.
+
+15060 windows queued, 15047 results received, 15046 results written.
+
+15089 windows queued, 15076 results received, 15074 results written.
+
+15117 windows queued, 15104 results received, 15102 results written.
+
+15145 windows queued, 15132 results received, 15131 results written.
+
+15173 windows queued, 15160 results received, 15159 results written.
+
+15202 windows queued, 15189 results received, 15187 results written.
+
+15232 windows queued, 15219 results received, 15218 results written.
+
+15259 windows queued, 15246 results received, 15246 results written.
+
+15288 windows queued, 15275 results received, 15274 results written.
+
+15317 windows queued, 15304 results received, 15303 results written.
+
+15345 windows queued, 15332 results received, 15331 results written.
+
+15373 windows queued, 15360 results received, 15359 results written.
+
+15402 windows queued, 15389 results received, 15387 results written.
+
+15430 windows queued, 15417 results received, 15416 results written.
+
+15460 windows queued, 15447 results received, 15446 results written.
+
+15488 windows queued, 15475 results received, 15475 results written.
+
+15516 windows queued, 15503 results received, 15503 results written.
+
+15545 windows queued, 15532 results received, 15532 results written.
+
+15574 windows queued, 15561 results received, 15560 results written.
+
+15602 windows queued, 15589 results received, 15588 results written.
+
+15630 windows queued, 15617 results received, 15617 results written.
+
+15658 windows queued, 15645 results received, 15644 results written.
+
+15687 windows queued, 15674 results received, 15673 results written.
+
+15715 windows queued, 15702 results received, 15702 results written.
+
+15743 windows queued, 15730 results received, 15729 results written.
+
+15772 windows queued, 15759 results received, 15758 results written.
+
+15800 windows queued, 15787 results received, 15786 results written.
+
+15828 windows queued, 15815 results received, 15814 results written.
+
+15857 windows queued, 15844 results received, 15842 results written.
+
+15885 windows queued, 15872 results received, 15871 results written.
+
+15915 windows queued, 15902 results received, 15901 results written.
+
+15943 windows queued, 15930 results received, 15930 results written.
+
+15972 windows queued, 15959 results received, 15959 results written.
+
+16001 windows queued, 15988 results received, 15988 results written.
+
+16031 windows queued, 16018 results received, 16018 results written.
+
+16059 windows queued, 16046 results received, 16045 results written.
+
+16089 windows queued, 16076 results received, 16075 results written.
+
+16119 windows queued, 16106 results received, 16105 results written.
+
+16146 windows queued, 16133 results received, 16133 results written.
+
+16175 windows queued, 16162 results received, 16161 results written.
+
+16204 windows queued, 16191 results received, 16189 results written.
+
+16232 windows queued, 16219 results received, 16217 results written.
+
+16260 windows queued, 16247 results received, 16245 results written.
+
+16290 windows queued, 16277 results received, 16277 results written.
+
+16318 windows queued, 16305 results received, 16304 results written.
+
+16347 windows queued, 16334 results received, 16333 results written.
+
+16374 windows queued, 16361 results received, 16361 results written.
+
+16403 windows queued, 16390 results received, 16390 results written.
+
+16432 windows queued, 16419 results received, 16418 results written.
+
+16460 windows queued, 16447 results received, 16446 results written.
+
+16488 windows queued, 16475 results received, 16475 results written.
+
+16517 windows queued, 16504 results received, 16502 results written.
+
+16545 windows queued, 16532 results received, 16531 results written.
+
+16574 windows queued, 16561 results received, 16558 results written.
+
+16601 windows queued, 16588 results received, 16587 results written.
+
+16631 windows queued, 16618 results received, 16618 results written.
+
+16660 windows queued, 16647 results received, 16646 results written.
+
+16688 windows queued, 16675 results received, 16674 results written.
+
+16716 windows queued, 16703 results received, 16702 results written.
+
+16745 windows queued, 16732 results received, 16730 results written.
+
+16773 windows queued, 16760 results received, 16759 results written.
+
+16802 windows queued, 16789 results received, 16786 results written.
+
+16831 windows queued, 16818 results received, 16818 results written.
+
+16859 windows queued, 16846 results received, 16845 results written.
+
+16888 windows queued, 16875 results received, 16874 results written.
+
+16916 windows queued, 16903 results received, 16903 results written.
+
+16944 windows queued, 16931 results received, 16931 results written.
+
+16973 windows queued, 16960 results received, 16959 results written.
+
+17001 windows queued, 16988 results received, 16987 results written.
+
+17029 windows queued, 17016 results received, 17016 results written.
+
+17058 windows queued, 17045 results received, 17044 results written.
+
+17086 windows queued, 17073 results received, 17072 results written.
+
+17115 windows queued, 17102 results received, 17101 results written.
+
+17143 windows queued, 17130 results received, 17128 results written.
+
+17171 windows queued, 17158 results received, 17157 results written.
+
+17201 windows queued, 17188 results received, 17187 results written.
+
+17229 windows queued, 17216 results received, 17215 results written.
+
+17257 windows queued, 17244 results received, 17244 results written.
+
+17286 windows queued, 17273 results received, 17272 results written.
+
+17314 windows queued, 17301 results received, 17300 results written.
+
+17343 windows queued, 17330 results received, 17329 results written.
+
+17371 windows queued, 17358 results received, 17356 results written.
+
+17399 windows queued, 17386 results received, 17385 results written.
+
+17428 windows queued, 17415 results received, 17412 results written.
+
+17458 windows queued, 17445 results received, 17444 results written.
+
+17485 windows queued, 17472 results received, 17472 results written.
+
+17514 windows queued, 17501 results received, 17501 results written.
+
+17543 windows queued, 17530 results received, 17529 results written.
+
+17571 windows queued, 17558 results received, 17557 results written.
+
+17599 windows queued, 17586 results received, 17586 results written.
+
+17627 windows queued, 17614 results received, 17613 results written.
+
+17656 windows queued, 17643 results received, 17642 results written.
+
+17685 windows queued, 17672 results received, 17671 results written.
+
+17712 windows queued, 17699 results received, 17698 results written.
+
+17741 windows queued, 17728 results received, 17727 results written.
+
+17770 windows queued, 17757 results received, 17755 results written.
+
+17798 windows queued, 17785 results received, 17783 results written.
+
+17827 windows queued, 17814 results received, 17814 results written.
+
+17855 windows queued, 17842 results received, 17841 results written.
+
+17884 windows queued, 17871 results received, 17870 results written.
+
+17913 windows queued, 17900 results received, 17899 results written.
+
+17940 windows queued, 17927 results received, 17926 results written.
+
+17969 windows queued, 17956 results received, 17955 results written.
+
+17998 windows queued, 17985 results received, 17983 results written.
+
+18026 windows queued, 18013 results received, 18011 results written.
+
+18054 windows queued, 18041 results received, 18039 results written.
+
+18084 windows queued, 18071 results received, 18071 results written.
+
+18112 windows queued, 18099 results received, 18098 results written.
+
+18140 windows queued, 18127 results received, 18127 results written.
+
+18169 windows queued, 18156 results received, 18156 results written.
+
+18197 windows queued, 18184 results received, 18184 results written.
+
+18226 windows queued, 18213 results received, 18212 results written.
+
+18255 windows queued, 18242 results received, 18241 results written.
+
+18282 windows queued, 18269 results received, 18268 results written.
+
+18311 windows queued, 18298 results received, 18297 results written.
+
+18340 windows queued, 18327 results received, 18325 results written.
+
+18368 windows queued, 18355 results received, 18353 results written.
+
+18396 windows queued, 18383 results received, 18381 results written.
+
+18425 windows queued, 18412 results received, 18410 results written.
+
+18454 windows queued, 18441 results received, 18440 results written.
+
+18483 windows queued, 18470 results received, 18469 results written.
+
+18511 windows queued, 18498 results received, 18498 results written.
+
+18539 windows queued, 18526 results received, 18525 results written.
+
+18568 windows queued, 18555 results received, 18554 results written.
+
+18597 windows queued, 18584 results received, 18582 results written.
+
+18624 windows queued, 18611 results received, 18610 results written.
+
+18653 windows queued, 18640 results received, 18638 results written.
+
+18682 windows queued, 18669 results received, 18667 results written.
+
+18711 windows queued, 18698 results received, 18697 results written.
+
+18739 windows queued, 18726 results received, 18726 results written.
+
+18768 windows queued, 18755 results received, 18755 results written.
+
+18796 windows queued, 18783 results received, 18783 results written.
+
+18825 windows queued, 18812 results received, 18811 results written.
+
+18854 windows queued, 18841 results received, 18840 results written.
+
+18881 windows queued, 18868 results received, 18868 results written.
+
+18910 windows queued, 18897 results received, 18896 results written.
+
+18939 windows queued, 18926 results received, 18924 results written.
+
+18967 windows queued, 18954 results received, 18953 results written.
+
+18996 windows queued, 18983 results received, 18980 results written.
+
+19024 windows queued, 19011 results received, 19009 results written.
+
+19053 windows queued, 19040 results received, 19040 results written.
+
+19082 windows queued, 19069 results received, 19069 results written.
+
+19111 windows queued, 19098 results received, 19097 results written.
+
+19138 windows queued, 19125 results received, 19125 results written.
+
+19166 windows queued, 19153 results received, 19153 results written.
+
+19195 windows queued, 19182 results received, 19181 results written.
+
+19224 windows queued, 19211 results received, 19210 results written.
+
+19252 windows queued, 19239 results received, 19238 results written.
+
+19281 windows queued, 19268 results received, 19266 results written.
+
+19309 windows queued, 19296 results received, 19295 results written.
+
+19337 windows queued, 19324 results received, 19323 results written.
+
+19366 windows queued, 19353 results received, 19351 results written.
+
+19395 windows queued, 19382 results received, 19380 results written.
+
+19424 windows queued, 19411 results received, 19410 results written.
+
+19452 windows queued, 19439 results received, 19438 results written.
+
+19481 windows queued, 19468 results received, 19467 results written.
+
+19509 windows queued, 19496 results received, 19495 results written.
+
+19537 windows queued, 19524 results received, 19523 results written.
+
+19566 windows queued, 19553 results received, 19551 results written.
+
+19594 windows queued, 19581 results received, 19580 results written.
+
+19623 windows queued, 19610 results received, 19608 results written.
+
+19653 windows queued, 19640 results received, 19640 results written.
+
+19681 windows queued, 19668 results received, 19667 results written.
+
+19709 windows queued, 19696 results received, 19696 results written.
+
+19738 windows queued, 19725 results received, 19725 results written.
+
+19767 windows queued, 19754 results received, 19754 results written.
+
+19794 windows queued, 19781 results received, 19781 results written.
+
+19822 windows queued, 19809 results received, 19808 results written.
+
+19852 windows queued, 19839 results received, 19839 results written.
+
+19880 windows queued, 19867 results received, 19866 results written.
+
+19907 windows queued, 19894 results received, 19894 results written.
+
+19937 windows queued, 19924 results received, 19924 results written.
+
+19966 windows queued, 19953 results received, 19953 results written.
+
+19995 windows queued, 19982 results received, 19982 results written.
+
+20024 windows queued, 20011 results received, 20010 results written.
+
+20054 windows queued, 20041 results received, 20041 results written.
+
+20083 windows queued, 20070 results received, 20069 results written.
+
+20111 windows queued, 20098 results received, 20098 results written.
+
+20141 windows queued, 20128 results received, 20128 results written.
+
+20170 windows queued, 20157 results received, 20157 results written.
+
+20200 windows queued, 20187 results received, 20187 results written.
+
+20229 windows queued, 20216 results received, 20216 results written.
+
+20258 windows queued, 20245 results received, 20245 results written.
+
+20288 windows queued, 20275 results received, 20274 results written.
+
+20317 windows queued, 20304 results received, 20304 results written.
+
+20346 windows queued, 20333 results received, 20332 results written.
+
+20376 windows queued, 20363 results received, 20363 results written.
+
+20404 windows queued, 20391 results received, 20391 results written.
+
+20433 windows queued, 20420 results received, 20420 results written.
+
+20464 windows queued, 20451 results received, 20451 results written.
+
+20492 windows queued, 20479 results received, 20479 results written.
+
+20522 windows queued, 20509 results received, 20508 results written.
+
+20550 windows queued, 20537 results received, 20537 results written.
+
+20578 windows queued, 20565 results received, 20565 results written.
+
+20607 windows queued, 20594 results received, 20593 results written.
+
+20636 windows queued, 20623 results received, 20622 results written.
+
+20664 windows queued, 20651 results received, 20650 results written.
+
+20694 windows queued, 20681 results received, 20680 results written.
+
+20722 windows queued, 20709 results received, 20708 results written.
+
+20750 windows queued, 20737 results received, 20736 results written.
+
+20779 windows queued, 20766 results received, 20765 results written.
+
+20808 windows queued, 20795 results received, 20794 results written.
+
+20835 windows queued, 20822 results received, 20822 results written.
+
+20864 windows queued, 20851 results received, 20851 results written.
+
+20893 windows queued, 20880 results received, 20879 results written.
+
+20921 windows queued, 20908 results received, 20907 results written.
+
+20950 windows queued, 20937 results received, 20936 results written.
+
+20978 windows queued, 20965 results received, 20965 results written.
+
+21007 windows queued, 20994 results received, 20994 results written.
+
+21036 windows queued, 21023 results received, 21022 results written.
+
+21064 windows queued, 21051 results received, 21050 results written.
+
+21093 windows queued, 21080 results received, 21079 results written.
+
+21122 windows queued, 21109 results received, 21108 results written.
+
+21149 windows queued, 21136 results received, 21136 results written.
+
+21178 windows queued, 21165 results received, 21164 results written.
+
+21207 windows queued, 21194 results received, 21193 results written.
+
+21235 windows queued, 21222 results received, 21221 results written.
+
+21264 windows queued, 21251 results received, 21250 results written.
+
+21292 windows queued, 21279 results received, 21279 results written.
+
+21320 windows queued, 21307 results received, 21307 results written.
+
+21349 windows queued, 21336 results received, 21335 results written.
+
+21378 windows queued, 21365 results received, 21364 results written.
+
+21406 windows queued, 21393 results received, 21392 results written.
+
+21434 windows queued, 21421 results received, 21421 results written.
+
+21463 windows queued, 21450 results received, 21450 results written.
+
+21491 windows queued, 21478 results received, 21477 results written.
+
+21520 windows queued, 21507 results received, 21506 results written.
+
+21548 windows queued, 21535 results received, 21535 results written.
+
+21577 windows queued, 21564 results received, 21564 results written.
+
+21605 windows queued, 21592 results received, 21592 results written.
+
+21634 windows queued, 21621 results received, 21620 results written.
+
+21663 windows queued, 21650 results received, 21649 results written.
+
+21691 windows queued, 21678 results received, 21677 results written.
+
+21720 windows queued, 21707 results received, 21706 results written.
+
+21748 windows queued, 21735 results received, 21735 results written.
+
+21776 windows queued, 21763 results received, 21763 results written.
+
+21805 windows queued, 21792 results received, 21792 results written.
+
+21834 windows queued, 21821 results received, 21821 results written.
+
+21862 windows queued, 21849 results received, 21848 results written.
+
+21891 windows queued, 21878 results received, 21877 results written.
+
+21920 windows queued, 21907 results received, 21906 results written.
+
+21947 windows queued, 21934 results received, 21933 results written.
+
+21977 windows queued, 21964 results received, 21963 results written.
+
+22005 windows queued, 21992 results received, 21991 results written.
+
+22033 windows queued, 22020 results received, 22020 results written.
+
+22062 windows queued, 22049 results received, 22049 results written.
+
+22090 windows queued, 22077 results received, 22077 results written.
+
+22120 windows queued, 22107 results received, 22106 results written.
+
+22148 windows queued, 22135 results received, 22134 results written.
+
+22175 windows queued, 22162 results received, 22162 results written.
+
+22205 windows queued, 22192 results received, 22192 results written.
+
+22233 windows queued, 22220 results received, 22220 results written.
+
+22261 windows queued, 22248 results received, 22247 results written.
+
+22291 windows queued, 22278 results received, 22277 results written.
+
+22319 windows queued, 22306 results received, 22305 results written.
+
+22347 windows queued, 22334 results received, 22334 results written.
+
+22376 windows queued, 22363 results received, 22363 results written.
+
+22404 windows queued, 22391 results received, 22391 results written.
+
+22434 windows queued, 22421 results received, 22420 results written.
+
+22462 windows queued, 22449 results received, 22448 results written.
+
+22489 windows queued, 22476 results received, 22476 results written.
+
+22519 windows queued, 22506 results received, 22506 results written.
+
+22547 windows queued, 22534 results received, 22534 results written.
+
+22575 windows queued, 22562 results received, 22561 results written.
+
+22605 windows queued, 22592 results received, 22591 results written.
+
+22632 windows queued, 22619 results received, 22619 results written.
+
+22662 windows queued, 22649 results received, 22649 results written.
+
+22690 windows queued, 22677 results received, 22677 results written.
+
+22718 windows queued, 22705 results received, 22704 results written.
+
+22747 windows queued, 22734 results received, 22734 results written.
+
+22775 windows queued, 22762 results received, 22762 results written.
+
+22804 windows queued, 22791 results received, 22790 results written.
+
+22833 windows queued, 22820 results received, 22820 results written.
+
+22861 windows queued, 22848 results received, 22847 results written.
+
+22891 windows queued, 22878 results received, 22878 results written.
+
+22918 windows queued, 22905 results received, 22905 results written.
+
+22946 windows queued, 22933 results received, 22933 results written.
+
+22976 windows queued, 22963 results received, 22963 results written.
+
+23004 windows queued, 22991 results received, 22991 results written.
+
+23032 windows queued, 23019 results received, 23018 results written.
+
+23062 windows queued, 23049 results received, 23049 results written.
+
+23090 windows queued, 23077 results received, 23076 results written.
+
+23118 windows queued, 23105 results received, 23104 results written.
+
+23147 windows queued, 23134 results received, 23134 results written.
+
+23175 windows queued, 23162 results received, 23162 results written.
+
+23204 windows queued, 23191 results received, 23190 results written.
+
+23233 windows queued, 23220 results received, 23220 results written.
+
+23261 windows queued, 23248 results received, 23248 results written.
+
+23291 windows queued, 23278 results received, 23278 results written.
+
+23319 windows queued, 23306 results received, 23306 results written.
+
+23346 windows queued, 23333 results received, 23333 results written.
+
+23376 windows queued, 23363 results received, 23363 results written.
+
+23404 windows queued, 23391 results received, 23391 results written.
+
+23432 windows queued, 23419 results received, 23419 results written.
+
+23462 windows queued, 23449 results received, 23449 results written.
+
+23490 windows queued, 23477 results received, 23477 results written.
+
+23518 windows queued, 23505 results received, 23504 results written.
+
+23548 windows queued, 23535 results received, 23535 results written.
+
+23576 windows queued, 23563 results received, 23562 results written.
+
+23604 windows queued, 23591 results received, 23591 results written.
+
+23633 windows queued, 23620 results received, 23620 results written.
+
+23661 windows queued, 23648 results received, 23648 results written.
+
+23691 windows queued, 23678 results received, 23678 results written.
+
+23719 windows queued, 23706 results received, 23706 results written.
+
+23747 windows queued, 23734 results received, 23733 results written.
+
+23777 windows queued, 23764 results received, 23764 results written.
+
+23805 windows queued, 23792 results received, 23791 results written.
+
+23832 windows queued, 23819 results received, 23819 results written.
+
+23862 windows queued, 23849 results received, 23849 results written.
+
+23890 windows queued, 23877 results received, 23877 results written.
+
+23920 windows queued, 23907 results received, 23907 results written.
+
+23948 windows queued, 23935 results received, 23935 results written.
+
+23976 windows queued, 23963 results received, 23962 results written.
+
+24006 windows queued, 23993 results received, 23993 results written.
+
+24034 windows queued, 24021 results received, 24021 results written.
+
+24061 windows queued, 24048 results received, 24048 results written.
+
+24091 windows queued, 24078 results received, 24078 results written.
+
+24119 windows queued, 24106 results received, 24106 results written.
+
+24147 windows queued, 24134 results received, 24133 results written.
+
+24177 windows queued, 24164 results received, 24164 results written.
+
+24204 windows queued, 24191 results received, 24190 results written.
+
+24233 windows queued, 24220 results received, 24218 results written.
+
+24262 windows queued, 24249 results received, 24246 results written.
+
+24291 windows queued, 24278 results received, 24277 results written.
+
+24320 windows queued, 24307 results received, 24306 results written.
+
+24348 windows queued, 24335 results received, 24335 results written.
+
+24376 windows queued, 24363 results received, 24363 results written.
+
+24405 windows queued, 24392 results received, 24392 results written.
+
+24434 windows queued, 24421 results received, 24421 results written.
+
+24462 windows queued, 24449 results received, 24448 results written.
+
+24490 windows queued, 24477 results received, 24476 results written.
+
+24519 windows queued, 24506 results received, 24505 results written.
+
+24548 windows queued, 24535 results received, 24534 results written.
+
+24576 windows queued, 24563 results received, 24561 results written.
+
+24604 windows queued, 24591 results received, 24589 results written.
+
+24633 windows queued, 24620 results received, 24618 results written.
+
+24661 windows queued, 24648 results received, 24647 results written.
+
+24691 windows queued, 24678 results received, 24678 results written.
+
+24720 windows queued, 24707 results received, 24706 results written.
+
+24748 windows queued, 24735 results received, 24734 results written.
+
+24776 windows queued, 24763 results received, 24762 results written.
+
+24806 windows queued, 24793 results received, 24791 results written.
+
+24834 windows queued, 24821 results received, 24820 results written.
+
+24861 windows queued, 24848 results received, 24847 results written.
+
+24890 windows queued, 24877 results received, 24875 results written.
+
+24919 windows queued, 24906 results received, 24904 results written.
+
+24949 windows queued, 24936 results received, 24935 results written.
+
+24978 windows queued, 24965 results received, 24964 results written.
+
+25006 windows queued, 24993 results received, 24993 results written.
+
+25036 windows queued, 25023 results received, 25023 results written.
+
+25065 windows queued, 25052 results received, 25052 results written.
+
+25095 windows queued, 25082 results received, 25082 results written.
+
+25124 windows queued, 25111 results received, 25111 results written.
+
+25153 windows queued, 25140 results received, 25139 results written.
+
+25183 windows queued, 25170 results received, 25170 results written.
+
+25210 windows queued, 25197 results received, 25197 results written.
+
+25238 windows queued, 25225 results received, 25225 results written.
+
+25267 windows queued, 25254 results received, 25253 results written.
+
+25296 windows queued, 25283 results received, 25283 results written.
+
+25324 windows queued, 25311 results received, 25311 results written.
+
+25352 windows queued, 25339 results received, 25338 results written.
+
+25381 windows queued, 25368 results received, 25368 results written.
+
+25409 windows queued, 25396 results received, 25396 results written.
+
+25438 windows queued, 25425 results received, 25424 results written.
+
+25467 windows queued, 25454 results received, 25454 results written.
+
+25494 windows queued, 25481 results received, 25481 results written.
+
+25523 windows queued, 25510 results received, 25510 results written.
+
+25552 windows queued, 25539 results received, 25539 results written.
+
+25580 windows queued, 25567 results received, 25566 results written.
+
+25608 windows queued, 25595 results received, 25595 results written.
+
+25637 windows queued, 25624 results received, 25624 results written.
+
+25665 windows queued, 25652 results received, 25652 results written.
+
+25694 windows queued, 25681 results received, 25680 results written.
+
+25723 windows queued, 25710 results received, 25709 results written.
+
+25750 windows queued, 25737 results received, 25737 results written.
+
+25779 windows queued, 25766 results received, 25765 results written.
+
+25808 windows queued, 25795 results received, 25794 results written.
+
+25836 windows queued, 25823 results received, 25822 results written.
+
+25864 windows queued, 25851 results received, 25850 results written.
+
+25893 windows queued, 25880 results received, 25880 results written.
+
+25921 windows queued, 25908 results received, 25907 results written.
+
+25951 windows queued, 25938 results received, 25937 results written.
+
+25978 windows queued, 25965 results received, 25965 results written.
+
+26006 windows queued, 25993 results received, 25993 results written.
+
+26036 windows queued, 26023 results received, 26022 results written.
+
+26064 windows queued, 26051 results received, 26050 results written.
+
+26091 windows queued, 26078 results received, 26078 results written.
+
+26121 windows queued, 26108 results received, 26107 results written.
+
+26149 windows queued, 26136 results received, 26135 results written.
+
+26177 windows queued, 26164 results received, 26163 results written.
+
+26207 windows queued, 26194 results received, 26193 results written.
+
+26234 windows queued, 26221 results received, 26220 results written.
+
+26264 windows queued, 26251 results received, 26248 results written.
+
+26291 windows queued, 26278 results received, 26277 results written.
+
+26320 windows queued, 26307 results received, 26306 results written.
+
+26349 windows queued, 26336 results received, 26334 results written.
+
+26377 windows queued, 26364 results received, 26362 results written.
+
+26405 windows queued, 26392 results received, 26391 results written.
+
+26434 windows queued, 26421 results received, 26419 results written.
+
+26462 windows queued, 26449 results received, 26447 results written.
+
+26491 windows queued, 26478 results received, 26477 results written.
+
+26519 windows queued, 26506 results received, 26505 results written.
+
+26547 windows queued, 26534 results received, 26532 results written.
+
+26577 windows queued, 26564 results received, 26561 results written.
+
+26604 windows queued, 26591 results received, 26590 results written.
+
+26632 windows queued, 26619 results received, 26618 results written.
+
+26662 windows queued, 26649 results received, 26646 results written.
+
+26691 windows queued, 26678 results received, 26677 results written.
+
+26719 windows queued, 26706 results received, 26705 results written.
+
+26749 windows queued, 26736 results received, 26732 results written.
+
+26777 windows queued, 26764 results received, 26762 results written.
+
+26805 windows queued, 26792 results received, 26790 results written.
+
+26834 windows queued, 26821 results received, 26818 results written.
+
+26863 windows queued, 26850 results received, 26850 results written.
+
+26891 windows queued, 26878 results received, 26877 results written.
+
+26921 windows queued, 26908 results received, 26908 results written.
+
+26949 windows queued, 26936 results received, 26936 results written.
+
+26976 windows queued, 26963 results received, 26963 results written.
+
+27006 windows queued, 26993 results received, 26993 results written.
+
+27034 windows queued, 27021 results received, 27021 results written.
+
+27062 windows queued, 27049 results received, 27048 results written.
+
+27091 windows queued, 27078 results received, 27078 results written.
+
+27120 windows queued, 27107 results received, 27107 results written.
+
+27147 windows queued, 27134 results received, 27134 results written.
+
+27176 windows queued, 27163 results received, 27162 results written.
+
+27205 windows queued, 27192 results received, 27192 results written.
+
+27233 windows queued, 27220 results received, 27219 results written.
+
+27261 windows queued, 27248 results received, 27248 results written.
+
+27290 windows queued, 27277 results received, 27277 results written.
+
+27318 windows queued, 27305 results received, 27304 results written.
+
+27347 windows queued, 27334 results received, 27333 results written.
+
+27376 windows queued, 27363 results received, 27363 results written.
+
+27403 windows queued, 27390 results received, 27390 results written.
+
+27432 windows queued, 27419 results received, 27418 results written.
+
+27461 windows queued, 27448 results received, 27448 results written.
+
+27489 windows queued, 27476 results received, 27475 results written.
+
+27518 windows queued, 27505 results received, 27504 results written.
+
+27546 windows queued, 27533 results received, 27533 results written.
+
+27574 windows queued, 27561 results received, 27561 results written.
+
+27603 windows queued, 27590 results received, 27589 results written.
+
+27632 windows queued, 27619 results received, 27619 results written.
+
+27660 windows queued, 27647 results received, 27646 results written.
+
+27688 windows queued, 27675 results received, 27675 results written.
+
+27717 windows queued, 27704 results received, 27704 results written.
+
+27745 windows queued, 27732 results received, 27731 results written.
+
+27774 windows queued, 27761 results received, 27760 results written.
+
+27803 windows queued, 27790 results received, 27790 results written.
+
+27830 windows queued, 27817 results received, 27817 results written.
+
+27860 windows queued, 27847 results received, 27847 results written.
+
+27888 windows queued, 27875 results received, 27875 results written.
+
+27916 windows queued, 27903 results received, 27902 results written.
+
+27946 windows queued, 27933 results received, 27932 results written.
+
+27973 windows queued, 27960 results received, 27960 results written.
+
+28001 windows queued, 27988 results received, 27988 results written.
+
+28031 windows queued, 28018 results received, 28018 results written.
+
+28059 windows queued, 28046 results received, 28046 results written.
+
+28087 windows queued, 28074 results received, 28073 results written.
+
+28116 windows queued, 28103 results received, 28103 results written.
+
+28144 windows queued, 28131 results received, 28131 results written.
+
+28172 windows queued, 28159 results received, 28158 results written.
+
+28202 windows queued, 28189 results received, 28188 results written.
+
+28230 windows queued, 28217 results received, 28216 results written.
+
+28258 windows queued, 28245 results received, 28244 results written.
+
+28287 windows queued, 28274 results received, 28274 results written.
+
+28315 windows queued, 28302 results received, 28301 results written.
+
+28344 windows queued, 28331 results received, 28330 results written.
+
+28373 windows queued, 28360 results received, 28359 results written.
+
+28401 windows queued, 28388 results received, 28387 results written.
+
+28429 windows queued, 28416 results received, 28416 results written.
+
+28458 windows queued, 28445 results received, 28444 results written.
+
+28486 windows queued, 28473 results received, 28472 results written.
+
+28515 windows queued, 28502 results received, 28501 results written.
+
+28543 windows queued, 28530 results received, 28530 results written.
+
+28572 windows queued, 28559 results received, 28558 results written.
+
+28600 windows queued, 28587 results received, 28586 results written.
+
+28628 windows queued, 28615 results received, 28614 results written.
+
+28657 windows queued, 28644 results received, 28643 results written.
+
+28685 windows queued, 28672 results received, 28671 results written.
+
+28713 windows queued, 28700 results received, 28699 results written.
+
+28742 windows queued, 28729 results received, 28728 results written.
+
+28770 windows queued, 28757 results received, 28756 results written.
+
+28800 windows queued, 28787 results received, 28784 results written.
+
+28827 windows queued, 28814 results received, 28813 results written.
+
+28855 windows queued, 28842 results received, 28841 results written.
+
+28885 windows queued, 28872 results received, 28870 results written.
+
+28913 windows queued, 28900 results received, 28899 results written.
+
+28941 windows queued, 28928 results received, 28926 results written.
+
+28971 windows queued, 28958 results received, 28955 results written.
+
+28999 windows queued, 28986 results received, 28984 results written.
+
+29027 windows queued, 29014 results received, 29012 results written.
+
+29056 windows queued, 29043 results received, 29040 results written.
+
+29084 windows queued, 29071 results received, 29069 results written.
+
+29113 windows queued, 29100 results received, 29099 results written.
+
+29142 windows queued, 29129 results received, 29127 results written.
+
+29171 windows queued, 29158 results received, 29156 results written.
+
+29199 windows queued, 29186 results received, 29184 results written.
+
+29227 windows queued, 29214 results received, 29212 results written.
+
+29256 windows queued, 29243 results received, 29241 results written.
+
+29284 windows queued, 29271 results received, 29270 results written.
+
+29313 windows queued, 29300 results received, 29297 results written.
+
+29342 windows queued, 29329 results received, 29326 results written.
+
+29370 windows queued, 29357 results received, 29355 results written.
+
+29398 windows queued, 29385 results received, 29382 results written.
+
+29428 windows queued, 29415 results received, 29414 results written.
+
+29456 windows queued, 29443 results received, 29443 results written.
+
+29484 windows queued, 29471 results received, 29470 results written.
+
+29513 windows queued, 29500 results received, 29500 results written.
+
+29541 windows queued, 29528 results received, 29528 results written.
+
+29569 windows queued, 29556 results received, 29556 results written.
+
+29598 windows queued, 29585 results received, 29585 results written.
+
+29627 windows queued, 29614 results received, 29614 results written.
+
+29655 windows queued, 29642 results received, 29641 results written.
+
+29683 windows queued, 29670 results received, 29670 results written.
+
+29712 windows queued, 29699 results received, 29699 results written.
+
+29740 windows queued, 29727 results received, 29727 results written.
+
+29769 windows queued, 29756 results received, 29755 results written.
+
+29797 windows queued, 29784 results received, 29784 results written.
+
+29825 windows queued, 29812 results received, 29812 results written.
+
+29854 windows queued, 29841 results received, 29841 results written.
+
+29882 windows queued, 29869 results received, 29869 results written.
+
+29911 windows queued, 29898 results received, 29898 results written.
+
+29942 windows queued, 29929 results received, 29929 results written.
+
+29970 windows queued, 29957 results received, 29956 results written.
+
+29998 windows queued, 29985 results received, 29985 results written.
+
+30028 windows queued, 30015 results received, 30015 results written.
+
+30057 windows queued, 30044 results received, 30044 results written.
+
+30088 windows queued, 30075 results received, 30075 results written.
+
+30116 windows queued, 30103 results received, 30102 results written.
+
+30145 windows queued, 30132 results received, 30131 results written.
+
+30176 windows queued, 30163 results received, 30163 results written.
+
+30203 windows queued, 30190 results received, 30190 results written.
+
+30232 windows queued, 30219 results received, 30219 results written.
+
+30263 windows queued, 30250 results received, 30250 results written.
+
+30291 windows queued, 30278 results received, 30278 results written.
+
+30322 windows queued, 30309 results received, 30309 results written.
+
+30351 windows queued, 30338 results received, 30338 results written.
+
+30379 windows queued, 30366 results received, 30365 results written.
+
+30410 windows queued, 30397 results received, 30396 results written.
+
+30438 windows queued, 30425 results received, 30425 results written.
+
+30466 windows queued, 30453 results received, 30453 results written.
+
+30497 windows queued, 30484 results received, 30484 results written.
+
+30525 windows queued, 30512 results received, 30512 results written.
+
+30556 windows queued, 30543 results received, 30543 results written.
+
+30585 windows queued, 30572 results received, 30572 results written.
+
+30613 windows queued, 30600 results received, 30599 results written.
+
+30643 windows queued, 30630 results received, 30630 results written.
+
+30672 windows queued, 30659 results received, 30659 results written.
+
+30700 windows queued, 30687 results received, 30687 results written.
+
+30731 windows queued, 30718 results received, 30718 results written.
+
+30759 windows queued, 30746 results received, 30745 results written.
+
+30788 windows queued, 30775 results received, 30774 results written.
+
+30819 windows queued, 30806 results received, 30806 results written.
+
+30846 windows queued, 30833 results received, 30833 results written.
+
+30877 windows queued, 30864 results received, 30864 results written.
+
+30906 windows queued, 30893 results received, 30893 results written.
+
+30934 windows queued, 30921 results received, 30921 results written.
+
+30965 windows queued, 30952 results received, 30952 results written.
+
+30994 windows queued, 30981 results received, 30981 results written.
+
+31024 windows queued, 31011 results received, 31010 results written.
+
+31053 windows queued, 31040 results received, 31040 results written.
+
+31082 windows queued, 31069 results received, 31068 results written.
+
+31111 windows queued, 31098 results received, 31098 results written.
+
+31140 windows queued, 31127 results received, 31127 results written.
+
+31169 windows queued, 31156 results received, 31156 results written.
+
+31199 windows queued, 31186 results received, 31186 results written.
+
+31228 windows queued, 31215 results received, 31215 results written.
+
+31258 windows queued, 31245 results received, 31244 results written.
+
+31287 windows queued, 31274 results received, 31273 results written.
+
+31316 windows queued, 31303 results received, 31302 results written.
+
+31343 windows queued, 31330 results received, 31329 results written.
+
+31372 windows queued, 31359 results received, 31358 results written.
+
+31401 windows queued, 31388 results received, 31386 results written.
+
+31429 windows queued, 31416 results received, 31414 results written.
+
+31458 windows queued, 31445 results received, 31445 results written.
+
+31487 windows queued, 31474 results received, 31473 results written.
+
+31515 windows queued, 31502 results received, 31501 results written.
+
+31543 windows queued, 31530 results received, 31530 results written.
+
+31571 windows queued, 31558 results received, 31557 results written.
+
+31600 windows queued, 31587 results received, 31586 results written.
+
+31629 windows queued, 31616 results received, 31613 results written.
+
+31657 windows queued, 31644 results received, 31642 results written.
+
+31686 windows queued, 31673 results received, 31673 results written.
+
+31715 windows queued, 31702 results received, 31702 results written.
+
+31743 windows queued, 31730 results received, 31729 results written.
+
+31771 windows queued, 31758 results received, 31758 results written.
+
+31800 windows queued, 31787 results received, 31787 results written.
+
+31828 windows queued, 31815 results received, 31814 results written.
+
+31857 windows queued, 31844 results received, 31843 results written.
+
+31884 windows queued, 31871 results received, 31871 results written.
+
+31913 windows queued, 31900 results received, 31899 results written.
+
+31942 windows queued, 31929 results received, 31928 results written.
+
+31970 windows queued, 31957 results received, 31956 results written.
+
+31998 windows queued, 31985 results received, 31984 results written.
+
+32027 windows queued, 32014 results received, 32012 results written.
+
+32055 windows queued, 32042 results received, 32041 results written.
+
+32084 windows queued, 32071 results received, 32068 results written.
+
+32113 windows queued, 32100 results received, 32100 results written.
+
+32141 windows queued, 32128 results received, 32127 results written.
+
+32170 windows queued, 32157 results received, 32156 results written.
+
+32198 windows queued, 32185 results received, 32184 results written.
+
+32226 windows queued, 32213 results received, 32212 results written.
+
+32255 windows queued, 32242 results received, 32240 results written.
+
+32283 windows queued, 32270 results received, 32269 results written.
+
+32311 windows queued, 32298 results received, 32297 results written.
+
+32341 windows queued, 32328 results received, 32328 results written.
+
+32369 windows queued, 32356 results received, 32355 results written.
+
+32398 windows queued, 32385 results received, 32384 results written.
+
+32426 windows queued, 32413 results received, 32413 results written.
+
+32454 windows queued, 32441 results received, 32441 results written.
+
+32483 windows queued, 32470 results received, 32470 results written.
+
+32511 windows queued, 32498 results received, 32497 results written.
+
+32540 windows queued, 32527 results received, 32526 results written.
+
+32568 windows queued, 32555 results received, 32554 results written.
+
+32597 windows queued, 32584 results received, 32583 results written.
+
+32625 windows queued, 32612 results received, 32611 results written.
+
+32653 windows queued, 32640 results received, 32639 results written.
+
+32682 windows queued, 32669 results received, 32667 results written.
+
+32711 windows queued, 32698 results received, 32695 results written.
+
+32739 windows queued, 32726 results received, 32724 results written.
+
+32768 windows queued, 32755 results received, 32755 results written.
+
+32797 windows queued, 32784 results received, 32784 results written.
+
+32825 windows queued, 32812 results received, 32811 results written.
+
+32853 windows queued, 32840 results received, 32839 results written.
+
+32882 windows queued, 32869 results received, 32869 results written.
+
+32911 windows queued, 32898 results received, 32898 results written.
+
+32940 windows queued, 32927 results received, 32927 results written.
+
+32970 windows queued, 32957 results received, 32957 results written.
+
+33000 windows queued, 32987 results received, 32987 results written.
+
+33028 windows queued, 33015 results received, 33014 results written.
+
+33056 windows queued, 33043 results received, 33042 results written.
+
+33085 windows queued, 33072 results received, 33072 results written.
+
+33113 windows queued, 33100 results received, 33099 results written.
+
+33141 windows queued, 33128 results received, 33127 results written.
+
+33171 windows queued, 33158 results received, 33157 results written.
+
+33198 windows queued, 33185 results received, 33184 results written.
+
+33227 windows queued, 33214 results received, 33212 results written.
+
+33256 windows queued, 33243 results received, 33241 results written.
+
+33284 windows queued, 33271 results received, 33270 results written.
+
+33313 windows queued, 33300 results received, 33297 results written.
+
+33342 windows queued, 33329 results received, 33329 results written.
+
+33370 windows queued, 33357 results received, 33357 results written.
+
+33399 windows queued, 33386 results received, 33386 results written.
+
+33428 windows queued, 33415 results received, 33415 results written.
+
+33456 windows queued, 33443 results received, 33442 results written.
+
+33485 windows queued, 33472 results received, 33471 results written.
+
+33513 windows queued, 33500 results received, 33500 results written.
+
+33542 windows queued, 33529 results received, 33528 results written.
+
+33570 windows queued, 33557 results received, 33556 results written.
+
+33598 windows queued, 33585 results received, 33585 results written.
+
+33627 windows queued, 33614 results received, 33613 results written.
+
+33655 windows queued, 33642 results received, 33641 results written.
+
+33684 windows queued, 33671 results received, 33671 results written.
+
+33715 windows queued, 33702 results received, 33702 results written.
+
+33742 windows queued, 33729 results received, 33729 results written.
+
+33771 windows queued, 33758 results received, 33757 results written.
+
+33800 windows queued, 33787 results received, 33787 results written.
+
+33828 windows queued, 33815 results received, 33814 results written.
+
+33856 windows queued, 33843 results received, 33843 results written.
+
+33885 windows queued, 33872 results received, 33872 results written.
+
+33913 windows queued, 33900 results received, 33899 results written.
+
+33942 windows queued, 33929 results received, 33928 results written.
+
+33971 windows queued, 33958 results received, 33958 results written.
+
+33999 windows queued, 33986 results received, 33985 results written.
+
+34028 windows queued, 34015 results received, 34014 results written.
+
+34056 windows queued, 34043 results received, 34043 results written.
+
+34084 windows queued, 34071 results received, 34070 results written.
+
+34113 windows queued, 34100 results received, 34099 results written.
+
+34142 windows queued, 34129 results received, 34129 results written.
+
+34171 windows queued, 34158 results received, 34158 results written.
+
+34199 windows queued, 34186 results received, 34185 results written.
+
+34228 windows queued, 34215 results received, 34214 results written.
+
+34257 windows queued, 34244 results received, 34244 results written.
+
+34285 windows queued, 34272 results received, 34272 results written.
+
+34312 windows queued, 34299 results received, 34299 results written.
+
+34342 windows queued, 34329 results received, 34329 results written.
+
+34370 windows queued, 34357 results received, 34357 results written.
+
+34399 windows queued, 34386 results received, 34385 results written.
+
+34427 windows queued, 34414 results received, 34414 results written.
+
+34455 windows queued, 34442 results received, 34442 results written.
+
+34485 windows queued, 34472 results received, 34472 results written.
+
+34513 windows queued, 34500 results received, 34500 results written.
+
+34541 windows queued, 34528 results received, 34527 results written.
+
+34570 windows queued, 34557 results received, 34557 results written.
+
+34598 windows queued, 34585 results received, 34585 results written.
+
+34626 windows queued, 34613 results received, 34612 results written.
+
+34656 windows queued, 34643 results received, 34643 results written.
+
+34683 windows queued, 34670 results received, 34670 results written.
+
+34713 windows queued, 34700 results received, 34700 results written.
+
+34741 windows queued, 34728 results received, 34728 results written.
+
+34769 windows queued, 34756 results received, 34756 results written.
+
+34799 windows queued, 34786 results received, 34786 results written.
+
+34826 windows queued, 34813 results received, 34813 results written.
+
+34854 windows queued, 34841 results received, 34841 results written.
+
+34884 windows queued, 34871 results received, 34871 results written.
+
+34912 windows queued, 34899 results received, 34899 results written.
+
+34941 windows queued, 34928 results received, 34927 results written.
+
+34970 windows queued, 34957 results received, 34957 results written.
+
+34997 windows queued, 34984 results received, 34984 results written.
+
+35027 windows queued, 35014 results received, 35014 results written.
+
+35055 windows queued, 35042 results received, 35042 results written.
+
+35083 windows queued, 35070 results received, 35069 results written.
+
+35112 windows queued, 35099 results received, 35099 results written.
+
+35140 windows queued, 35127 results received, 35126 results written.
+
+35169 windows queued, 35156 results received, 35156 results written.
+
+35198 windows queued, 35185 results received, 35185 results written.
+
+35226 windows queued, 35213 results received, 35212 results written.
+
+35255 windows queued, 35242 results received, 35241 results written.
+
+35283 windows queued, 35270 results received, 35270 results written.
+
+35311 windows queued, 35298 results received, 35297 results written.
+
+35340 windows queued, 35327 results received, 35326 results written.
+
+35369 windows queued, 35356 results received, 35356 results written.
+
+35396 windows queued, 35383 results received, 35383 results written.
+
+35425 windows queued, 35412 results received, 35411 results written.
+
+35454 windows queued, 35441 results received, 35441 results written.
+
+35482 windows queued, 35469 results received, 35468 results written.
+
+35511 windows queued, 35498 results received, 35497 results written.
+
+35539 windows queued, 35526 results received, 35526 results written.
+
+35567 windows queued, 35554 results received, 35554 results written.
+
+35596 windows queued, 35583 results received, 35582 results written.
+
+35625 windows queued, 35612 results received, 35612 results written.
+
+35653 windows queued, 35640 results received, 35639 results written.
+
+35682 windows queued, 35669 results received, 35668 results written.
+
+35710 windows queued, 35697 results received, 35697 results written.
+
+35738 windows queued, 35725 results received, 35725 results written.
+
+35767 windows queued, 35754 results received, 35753 results written.
+
+35796 windows queued, 35783 results received, 35783 results written.
+
+35824 windows queued, 35811 results received, 35810 results written.
+
+35853 windows queued, 35840 results received, 35839 results written.
+
+35881 windows queued, 35868 results received, 35868 results written.
+
+35909 windows queued, 35896 results received, 35895 results written.
+
+35939 windows queued, 35926 results received, 35926 results written.
+
+35967 windows queued, 35954 results received, 35953 results written.
+
+35995 windows queued, 35982 results received, 35982 results written.
+
+36024 windows queued, 36011 results received, 36011 results written.
+
+36052 windows queued, 36039 results received, 36039 results written.
+
+36081 windows queued, 36068 results received, 36067 results written.
+
+36110 windows queued, 36097 results received, 36097 results written.
+
+36137 windows queued, 36124 results received, 36124 results written.
+
+36166 windows queued, 36153 results received, 36152 results written.
+
+36195 windows queued, 36182 results received, 36182 results written.
+
+36223 windows queued, 36210 results received, 36209 results written.
+
+36251 windows queued, 36238 results received, 36237 results written.
+
+36280 windows queued, 36267 results received, 36267 results written.
+
+36308 windows queued, 36295 results received, 36294 results written.
+
+36337 windows queued, 36324 results received, 36324 results written.
+
+36365 windows queued, 36352 results received, 36352 results written.
+
+36393 windows queued, 36380 results received, 36379 results written.
+
+36423 windows queued, 36410 results received, 36410 results written.
+
+36450 windows queued, 36437 results received, 36437 results written.
+
+36478 windows queued, 36465 results received, 36464 results written.
+
+36508 windows queued, 36495 results received, 36495 results written.
+
+36536 windows queued, 36523 results received, 36522 results written.
+
+36564 windows queued, 36551 results received, 36551 results written.
+
+36593 windows queued, 36580 results received, 36580 results written.
+
+36621 windows queued, 36608 results received, 36607 results written.
+
+36650 windows queued, 36637 results received, 36636 results written.
+
+36678 windows queued, 36665 results received, 36665 results written.
+
+36706 windows queued, 36693 results received, 36692 results written.
+
+36736 windows queued, 36723 results received, 36723 results written.
+
+36763 windows queued, 36750 results received, 36750 results written.
+
+36791 windows queued, 36778 results received, 36778 results written.
+
+36821 windows queued, 36808 results received, 36808 results written.
+
+36849 windows queued, 36836 results received, 36836 results written.
+
+36877 windows queued, 36864 results received, 36863 results written.
+
+36907 windows queued, 36894 results received, 36894 results written.
+
+36935 windows queued, 36922 results received, 36921 results written.
+
+36962 windows queued, 36949 results received, 36949 results written.
+
+36992 windows queued, 36979 results received, 36979 results written.
+
+37020 windows queued, 37007 results received, 37007 results written.
+
+37048 windows queued, 37035 results received, 37034 results written.
+
+37078 windows queued, 37065 results received, 37065 results written.
+
+37106 windows queued, 37093 results received, 37092 results written.
+
+37133 windows queued, 37120 results received, 37120 results written.
+
+37163 windows queued, 37150 results received, 37150 results written.
+
+37191 windows queued, 37178 results received, 37178 results written.
+
+37220 windows queued, 37207 results received, 37206 results written.
+
+37249 windows queued, 37236 results received, 37236 results written.
+
+37277 windows queued, 37264 results received, 37263 results written.
+
+37305 windows queued, 37292 results received, 37292 results written.
+
+37334 windows queued, 37321 results received, 37321 results written.
+
+37362 windows queued, 37349 results received, 37349 results written.
+
+37391 windows queued, 37378 results received, 37377 results written.
+
+37420 windows queued, 37407 results received, 37407 results written.
+
+37448 windows queued, 37435 results received, 37434 results written.
+
+37477 windows queued, 37464 results received, 37463 results written.
+
+37505 windows queued, 37492 results received, 37492 results written.
+
+37533 windows queued, 37520 results received, 37520 results written.
+
+37563 windows queued, 37550 results received, 37550 results written.
+
+37591 windows queued, 37578 results received, 37578 results written.
+
+37619 windows queued, 37606 results received, 37605 results written.
+
+37649 windows queued, 37636 results received, 37635 results written.
+
+37677 windows queued, 37664 results received, 37663 results written.
+
+37704 windows queued, 37691 results received, 37691 results written.
+
+37734 windows queued, 37721 results received, 37721 results written.
+
+37762 windows queued, 37749 results received, 37749 results written.
+
+37790 windows queued, 37777 results received, 37776 results written.
+
+37820 windows queued, 37807 results received, 37806 results written.
+
+37848 windows queued, 37835 results received, 37834 results written.
+
+37876 windows queued, 37863 results received, 37862 results written.
+
+37905 windows queued, 37892 results received, 37892 results written.
+
+37933 windows queued, 37920 results received, 37920 results written.
+
+37961 windows queued, 37948 results received, 37947 results written.
+
+37991 windows queued, 37978 results received, 37977 results written.
+
+38019 windows queued, 38006 results received, 38005 results written.
+
+38048 windows queued, 38035 results received, 38034 results written.
+
+38077 windows queued, 38064 results received, 38063 results written.
+
+38104 windows queued, 38091 results received, 38090 results written.
+
+38134 windows queued, 38121 results received, 38119 results written.
+
+38162 windows queued, 38149 results received, 38148 results written.
+
+38190 windows queued, 38177 results received, 38176 results written.
+
+38220 windows queued, 38207 results received, 38206 results written.
+
+38248 windows queued, 38235 results received, 38234 results written.
+
+38275 windows queued, 38262 results received, 38261 results written.
+
+38305 windows queued, 38292 results received, 38291 results written.
+
+38333 windows queued, 38320 results received, 38319 results written.
+
+38361 windows queued, 38348 results received, 38347 results written.
+
+38391 windows queued, 38378 results received, 38377 results written.
+
+38419 windows queued, 38406 results received, 38404 results written.
+
+38446 windows queued, 38433 results received, 38432 results written.
+
+38476 windows queued, 38463 results received, 38462 results written.
+
+38504 windows queued, 38491 results received, 38490 results written.
+
+38534 windows queued, 38521 results received, 38518 results written.
+
+38562 windows queued, 38549 results received, 38547 results written.
+
+38590 windows queued, 38577 results received, 38575 results written.
+
+38619 windows queued, 38606 results received, 38603 results written.
+
+38647 windows queued, 38634 results received, 38633 results written.
+
+38675 windows queued, 38662 results received, 38661 results written.
+
+38706 windows queued, 38693 results received, 38692 results written.
+
+38734 windows queued, 38721 results received, 38720 results written.
+
+38762 windows queued, 38749 results received, 38747 results written.
+
+38791 windows queued, 38778 results received, 38777 results written.
+
+38819 windows queued, 38806 results received, 38805 results written.
+
+38847 windows queued, 38834 results received, 38833 results written.
+
+38877 windows queued, 38864 results received, 38863 results written.
+
+38905 windows queued, 38892 results received, 38891 results written.
+
+38935 windows queued, 38922 results received, 38918 results written.
+
+38962 windows queued, 38949 results received, 38948 results written.
+
+38990 windows queued, 38977 results received, 38976 results written.
+
+39020 windows queued, 39007 results received, 39004 results written.
+
+39048 windows queued, 39035 results received, 39033 results written.
+
+39076 windows queued, 39063 results received, 39061 results written.
+
+39106 windows queued, 39093 results received, 39093 results written.
+
+39134 windows queued, 39121 results received, 39121 results written.
+
+39162 windows queued, 39149 results received, 39148 results written.
+
+39192 windows queued, 39179 results received, 39179 results written.
+
+39220 windows queued, 39207 results received, 39207 results written.
+
+39250 windows queued, 39237 results received, 39237 results written.
+
+39278 windows queued, 39265 results received, 39265 results written.
+
+39305 windows queued, 39292 results received, 39292 results written.
+
+39335 windows queued, 39322 results received, 39322 results written.
+
+39363 windows queued, 39350 results received, 39350 results written.
+
+39391 windows queued, 39378 results received, 39377 results written.
+
+39420 windows queued, 39407 results received, 39407 results written.
+
+39448 windows queued, 39435 results received, 39435 results written.
+
+39478 windows queued, 39465 results received, 39465 results written.
+
+39506 windows queued, 39493 results received, 39493 results written.
+
+39533 windows queued, 39520 results received, 39520 results written.
+
+39563 windows queued, 39550 results received, 39550 results written.
+
+39591 windows queued, 39578 results received, 39578 results written.
+
+39619 windows queued, 39606 results received, 39605 results written.
+
+39648 windows queued, 39635 results received, 39635 results written.
+
+39676 windows queued, 39663 results received, 39663 results written.
+
+39706 windows queued, 39693 results received, 39693 results written.
+
+39734 windows queued, 39721 results received, 39721 results written.
+
+39761 windows queued, 39748 results received, 39748 results written.
+
+39791 windows queued, 39778 results received, 39778 results written.
+
+39819 windows queued, 39806 results received, 39806 results written.
+
+39847 windows queued, 39834 results received, 39833 results written.
+
+39876 windows queued, 39863 results received, 39863 results written.
+
+39904 windows queued, 39891 results received, 39891 results written.
+
+39934 windows queued, 39921 results received, 39921 results written.
+
+39962 windows queued, 39949 results received, 39948 results written.
+
+39990 windows queued, 39977 results received, 39977 results written.
+
+40019 windows queued, 40006 results received, 40006 results written.
+
+40047 windows queued, 40034 results received, 40033 results written.
+
+40076 windows queued, 40063 results received, 40062 results written.
+
+40104 windows queued, 40091 results received, 40091 results written.
+
+40132 windows queued, 40119 results received, 40119 results written.
+
+40161 windows queued, 40148 results received, 40148 results written.
+
+40190 windows queued, 40177 results received, 40177 results written.
+
+40218 windows queued, 40205 results received, 40204 results written.
+
+40247 windows queued, 40234 results received, 40233 results written.
+
+40276 windows queued, 40263 results received, 40262 results written.
+
+40303 windows queued, 40290 results received, 40290 results written.
+
+40332 windows queued, 40319 results received, 40319 results written.
+
+40361 windows queued, 40348 results received, 40348 results written.
+
+40389 windows queued, 40376 results received, 40375 results written.
+
+40418 windows queued, 40405 results received, 40404 results written.
+
+40447 windows queued, 40434 results received, 40433 results written.
+
+40475 windows queued, 40462 results received, 40461 results written.
+
+40503 windows queued, 40490 results received, 40490 results written.
+
+40532 windows queued, 40519 results received, 40518 results written.
+
+40560 windows queued, 40547 results received, 40546 results written.
+
+40590 windows queued, 40577 results received, 40575 results written.
+
+40617 windows queued, 40604 results received, 40603 results written.
+
+40645 windows queued, 40632 results received, 40631 results written.
+
+40675 windows queued, 40662 results received, 40658 results written.
+
+40703 windows queued, 40690 results received, 40688 results written.
+
+40730 windows queued, 40717 results received, 40716 results written.
+
+40760 windows queued, 40747 results received, 40745 results written.
+
+40788 windows queued, 40775 results received, 40773 results written.
+
+40816 windows queued, 40803 results received, 40801 results written.
+
+40845 windows queued, 40832 results received, 40830 results written.
+
+40873 windows queued, 40860 results received, 40859 results written.
+
+40902 windows queued, 40889 results received, 40887 results written.
+
+40931 windows queued, 40918 results received, 40916 results written.
+
+40958 windows queued, 40945 results received, 40944 results written.
+
+40988 windows queued, 40975 results received, 40972 results written.
+
+41016 windows queued, 41003 results received, 41001 results written.
+
+41044 windows queued, 41031 results received, 41029 results written.
+
+41073 windows queued, 41060 results received, 41058 results written.
+
+41101 windows queued, 41088 results received, 41087 results written.
+
+41130 windows queued, 41117 results received, 41114 results written.
+
+41159 windows queued, 41146 results received, 41143 results written.
+
+41186 windows queued, 41173 results received, 41172 results written.
+
+41215 windows queued, 41202 results received, 41200 results written.
+
+41244 windows queued, 41231 results received, 41229 results written.
+
+41272 windows queued, 41259 results received, 41257 results written.
+
+41301 windows queued, 41288 results received, 41285 results written.
+
+41329 windows queued, 41316 results received, 41315 results written.
+
+41357 windows queued, 41344 results received, 41343 results written.
+
+41386 windows queued, 41373 results received, 41371 results written.
+
+41415 windows queued, 41402 results received, 41400 results written.
+
+41442 windows queued, 41429 results received, 41428 results written.
+
+41471 windows queued, 41458 results received, 41456 results written.
+
+41500 windows queued, 41487 results received, 41486 results written.
+
+41528 windows queued, 41515 results received, 41513 results written.
+
+41557 windows queued, 41544 results received, 41541 results written.
+
+41585 windows queued, 41572 results received, 41571 results written.
+
+41613 windows queued, 41600 results received, 41599 results written.
+
+41642 windows queued, 41629 results received, 41627 results written.
+
+41671 windows queued, 41658 results received, 41655 results written.
+
+41698 windows queued, 41685 results received, 41684 results written.
+
+41728 windows queued, 41715 results received, 41711 results written.
+
+41755 windows queued, 41742 results received, 41741 results written.
+
+41783 windows queued, 41770 results received, 41769 results written.
+
+41813 windows queued, 41800 results received, 41799 results written.
+
+41841 windows queued, 41828 results received, 41827 results written.
+
+41869 windows queued, 41856 results received, 41854 results written.
+
+41898 windows queued, 41885 results received, 41884 results written.
+
+41927 windows queued, 41914 results received, 41911 results written.
+
+41954 windows queued, 41941 results received, 41940 results written.
+
+41983 windows queued, 41970 results received, 41969 results written.
+
+42012 windows queued, 41999 results received, 41997 results written.
+
+42040 windows queued, 42027 results received, 42025 results written.
+
+42068 windows queued, 42055 results received, 42054 results written.
+
+42097 windows queued, 42084 results received, 42082 results written.
+
+42125 windows queued, 42112 results received, 42111 results written.
+
+42154 windows queued, 42141 results received, 42138 results written.
+
+42181 windows queued, 42168 results received, 42167 results written.
+
+42210 windows queued, 42197 results received, 42196 results written.
+
+42238 windows queued, 42225 results received, 42224 results written.
+
+42267 windows queued, 42254 results received, 42253 results written.
+
+42296 windows queued, 42283 results received, 42282 results written.
+
+42324 windows queued, 42311 results received, 42309 results written.
+
+42353 windows queued, 42340 results received, 42338 results written.
+
+42381 windows queued, 42368 results received, 42366 results written.
+
+42409 windows queued, 42396 results received, 42395 results written.
+
+42439 windows queued, 42426 results received, 42422 results written.
+
+42466 windows queued, 42453 results received, 42452 results written.
+
+42494 windows queued, 42481 results received, 42480 results written.
+
+42524 windows queued, 42511 results received, 42509 results written.
+
+42552 windows queued, 42539 results received, 42538 results written.
+
+42579 windows queued, 42566 results received, 42565 results written.
+
+42609 windows queued, 42596 results received, 42594 results written.
+
+42637 windows queued, 42624 results received, 42623 results written.
+
+42666 windows queued, 42653 results received, 42650 results written.
+
+42694 windows queued, 42681 results received, 42679 results written.
+
+42722 windows queued, 42709 results received, 42708 results written.
+
+42751 windows queued, 42738 results received, 42736 results written.
+
+42780 windows queued, 42767 results received, 42765 results written.
+
+42807 windows queued, 42794 results received, 42793 results written.
+
+42836 windows queued, 42823 results received, 42821 results written.
+
+42865 windows queued, 42852 results received, 42851 results written.
+
+42893 windows queued, 42880 results received, 42878 results written.
+
+42922 windows queued, 42909 results received, 42907 results written.
+
+42950 windows queued, 42937 results received, 42936 results written.
+
+42978 windows queued, 42965 results received, 42964 results written.
+
+43008 windows queued, 42995 results received, 42993 results written.
+
+43035 windows queued, 43022 results received, 43021 results written.
+
+43063 windows queued, 43050 results received, 43049 results written.
+
+43093 windows queued, 43080 results received, 43078 results written.
+
+43121 windows queued, 43108 results received, 43107 results written.
+
+43149 windows queued, 43136 results received, 43134 results written.
+
+43178 windows queued, 43165 results received, 43164 results written.
+
+43206 windows queued, 43193 results received, 43192 results written.
+
+43235 windows queued, 43222 results received, 43220 results written.
+
+43264 windows queued, 43251 results received, 43248 results written.
+
+43291 windows queued, 43278 results received, 43277 results written.
+
+43319 windows queued, 43306 results received, 43305 results written.
+
+43349 windows queued, 43336 results received, 43334 results written.
+
+43377 windows queued, 43364 results received, 43363 results written.
+
+43405 windows queued, 43392 results received, 43391 results written.
+
+43435 windows queued, 43422 results received, 43420 results written.
+
+43463 windows queued, 43450 results received, 43449 results written.
+
+43490 windows queued, 43477 results received, 43476 results written.
+
+43519 windows queued, 43506 results received, 43505 results written.
+
+43548 windows queued, 43535 results received, 43534 results written.
+
+43576 windows queued, 43563 results received, 43562 results written.
+
+43606 windows queued, 43593 results received, 43593 results written.
+
+43635 windows queued, 43622 results received, 43622 results written.
+
+43664 windows queued, 43651 results received, 43651 results written.
+
+43694 windows queued, 43681 results received, 43681 results written.
+
+43723 windows queued, 43710 results received, 43710 results written.
+
+43752 windows queued, 43739 results received, 43738 results written.
+
+43781 windows queued, 43768 results received, 43768 results written.
+
+43809 windows queued, 43796 results received, 43795 results written.
+
+43837 windows queued, 43824 results received, 43824 results written.
+
+43866 windows queued, 43853 results received, 43853 results written.
+
+43894 windows queued, 43881 results received, 43880 results written.
+
+43923 windows queued, 43910 results received, 43909 results written.
+
+43952 windows queued, 43939 results received, 43939 results written.
+
+43979 windows queued, 43966 results received, 43966 results written.
+
+44009 windows queued, 43996 results received, 43996 results written.
+
+44039 windows queued, 44026 results received, 44026 results written.
+
+44066 windows queued, 44053 results received, 44052 results written.
+
+44095 windows queued, 44082 results received, 44080 results written.
+
+44124 windows queued, 44111 results received, 44108 results written.
+
+44153 windows queued, 44140 results received, 44139 results written.
+
+44182 windows queued, 44169 results received, 44169 results written.
+
+44210 windows queued, 44197 results received, 44197 results written.
+
+44239 windows queued, 44226 results received, 44226 results written.
+
+44270 windows queued, 44257 results received, 44257 results written.
+
+44298 windows queued, 44285 results received, 44285 results written.
+
+44327 windows queued, 44314 results received, 44313 results written.
+
+44358 windows queued, 44345 results received, 44345 results written.
+
+44386 windows queued, 44373 results received, 44372 results written.
+
+44417 windows queued, 44404 results received, 44404 results written.
+
+44445 windows queued, 44432 results received, 44432 results written.
+
+44473 windows queued, 44460 results received, 44460 results written.
+
+44504 windows queued, 44491 results received, 44491 results written.
+
+44532 windows queued, 44519 results received, 44519 results written.
+
+44561 windows queued, 44548 results received, 44548 results written.
+
+44592 windows queued, 44579 results received, 44579 results written.
+
+44620 windows queued, 44607 results received, 44606 results written.
+
+44649 windows queued, 44636 results received, 44634 results written.
+
+44677 windows queued, 44664 results received, 44662 results written.
+
+44705 windows queued, 44692 results received, 44691 results written.
+
+44734 windows queued, 44721 results received, 44718 results written.
+
+44762 windows queued, 44749 results received, 44747 results written.
+
+44790 windows queued, 44777 results received, 44776 results written.
+
+44819 windows queued, 44806 results received, 44804 results written.
+
+44849 windows queued, 44836 results received, 44836 results written.
+
+44876 windows queued, 44863 results received, 44863 results written.
+
+44905 windows queued, 44892 results received, 44892 results written.
+
+44933 windows queued, 44920 results received, 44919 results written.
+
+44962 windows queued, 44949 results received, 44948 results written.
+
+44990 windows queued, 44977 results received, 44977 results written.
+
+45018 windows queued, 45005 results received, 45005 results written.
+
+45047 windows queued, 45034 results received, 45034 results written.
+
+45076 windows queued, 45063 results received, 45063 results written.
+
+45103 windows queued, 45090 results received, 45090 results written.
+
+45132 windows queued, 45119 results received, 45119 results written.
+
+45161 windows queued, 45148 results received, 45148 results written.
+
+45189 windows queued, 45176 results received, 45175 results written.
+
+45218 windows queued, 45205 results received, 45204 results written.
+
+45245 windows queued, 45232 results received, 45231 results written.
+
+45274 windows queued, 45261 results received, 45261 results written.
+
+45303 windows queued, 45290 results received, 45290 results written.
+
+45331 windows queued, 45318 results received, 45317 results written.
+
+45359 windows queued, 45346 results received, 45346 results written.
+
+45387 windows queued, 45374 results received, 45374 results written.
+
+45416 windows queued, 45403 results received, 45402 results written.
+
+45445 windows queued, 45432 results received, 45432 results written.
+
+45473 windows queued, 45460 results received, 45459 results written.
+
+45501 windows queued, 45488 results received, 45488 results written.
+
+45530 windows queued, 45517 results received, 45517 results written.
+
+45558 windows queued, 45545 results received, 45544 results written.
+
+45588 windows queued, 45575 results received, 45575 results written.
+
+45616 windows queued, 45603 results received, 45602 results written.
+
+45643 windows queued, 45630 results received, 45630 results written.
+
+45673 windows queued, 45660 results received, 45660 results written.
+
+45701 windows queued, 45688 results received, 45688 results written.
+
+45729 windows queued, 45716 results received, 45715 results written.
+
+45758 windows queued, 45745 results received, 45745 results written.
+
+45786 windows queued, 45773 results received, 45773 results written.
+
+45814 windows queued, 45801 results received, 45800 results written.
+
+45844 windows queued, 45831 results received, 45831 results written.
+
+45872 windows queued, 45859 results received, 45858 results written.
+
+45901 windows queued, 45888 results received, 45887 results written.
+
+45929 windows queued, 45916 results received, 45916 results written.
+
+45957 windows queued, 45944 results received, 45944 results written.
+
+45986 windows queued, 45973 results received, 45972 results written.
+
+46015 windows queued, 46002 results received, 46002 results written.
+
+46044 windows queued, 46031 results received, 46031 results written.
+
+46074 windows queued, 46061 results received, 46061 results written.
+
+46103 windows queued, 46090 results received, 46090 results written.
+
+46131 windows queued, 46118 results received, 46118 results written.
+
+46161 windows queued, 46148 results received, 46148 results written.
+
+46189 windows queued, 46176 results received, 46175 results written.
+
+46217 windows queued, 46204 results received, 46203 results written.
+
+46247 windows queued, 46234 results received, 46233 results written.
+
+46275 windows queued, 46262 results received, 46261 results written.
+
+46302 windows queued, 46289 results received, 46289 results written.
+
+46332 windows queued, 46319 results received, 46319 results written.
+
+46360 windows queued, 46347 results received, 46347 results written.
+
+46388 windows queued, 46375 results received, 46374 results written.
+
+46418 windows queued, 46405 results received, 46405 results written.
+
+46446 windows queued, 46433 results received, 46433 results written.
+
+46474 windows queued, 46461 results received, 46460 results written.
+
+46504 windows queued, 46491 results received, 46490 results written.
+
+46532 windows queued, 46519 results received, 46518 results written.
+
+46560 windows queued, 46547 results received, 46546 results written.
+
+46590 windows queued, 46577 results received, 46576 results written.
+
+46618 windows queued, 46605 results received, 46605 results written.
+
+46647 windows queued, 46634 results received, 46633 results written.
+
+46674 windows queued, 46661 results received, 46661 results written.
+
+46703 windows queued, 46690 results received, 46690 results written.
+
+46732 windows queued, 46719 results received, 46718 results written.
+
+46759 windows queued, 46746 results received, 46746 results written.
+
+46788 windows queued, 46775 results received, 46775 results written.
+
+46817 windows queued, 46804 results received, 46804 results written.
+
+46845 windows queued, 46832 results received, 46831 results written.
+
+46873 windows queued, 46860 results received, 46860 results written.
+
+46902 windows queued, 46889 results received, 46889 results written.
+
+46930 windows queued, 46917 results received, 46916 results written.
+
+46959 windows queued, 46946 results received, 46945 results written.
+
+46988 windows queued, 46975 results received, 46974 results written.
+
+47015 windows queued, 47002 results received, 47002 results written.
+
+47044 windows queued, 47031 results received, 47031 results written.
+
+47073 windows queued, 47060 results received, 47060 results written.
+
+47101 windows queued, 47088 results received, 47087 results written.
+
+47130 windows queued, 47117 results received, 47116 results written.
+
+47158 windows queued, 47145 results received, 47145 results written.
+
+47186 windows queued, 47173 results received, 47173 results written.
+
+47215 windows queued, 47202 results received, 47202 results written.
+
+47244 windows queued, 47231 results received, 47231 results written.
+
+47272 windows queued, 47259 results received, 47258 results written.
+
+47301 windows queued, 47288 results received, 47287 results written.
+
+47329 windows queued, 47316 results received, 47316 results written.
+
+47357 windows queued, 47344 results received, 47344 results written.
+
+47386 windows queued, 47373 results received, 47373 results written.
+
+47414 windows queued, 47401 results received, 47400 results written.
+
+47443 windows queued, 47430 results received, 47429 results written.
+
+47471 windows queued, 47458 results received, 47458 results written.
+
+47500 windows queued, 47487 results received, 47487 results written.
+
+47528 windows queued, 47515 results received, 47515 results written.
+
+47557 windows queued, 47544 results received, 47543 results written.
+
+47586 windows queued, 47573 results received, 47572 results written.
+
+47613 windows queued, 47600 results received, 47600 results written.
+
+47642 windows queued, 47629 results received, 47629 results written.
+
+47671 windows queued, 47658 results received, 47657 results written.
+
+47698 windows queued, 47685 results received, 47685 results written.
+
+47727 windows queued, 47714 results received, 47714 results written.
+
+47756 windows queued, 47743 results received, 47742 results written.
+
+47784 windows queued, 47771 results received, 47770 results written.
+
+47812 windows queued, 47799 results received, 47799 results written.
+
+47841 windows queued, 47828 results received, 47828 results written.
+
+47869 windows queued, 47856 results received, 47855 results written.
+
+47898 windows queued, 47885 results received, 47884 results written.
+
+47926 windows queued, 47913 results received, 47913 results written.
+
+47954 windows queued, 47941 results received, 47940 results written.
+
+47983 windows queued, 47970 results received, 47969 results written.
+
+48012 windows queued, 47999 results received, 47998 results written.
+
+48039 windows queued, 48026 results received, 48026 results written.
+
+48068 windows queued, 48055 results received, 48054 results written.
+
+48097 windows queued, 48084 results received, 48083 results written.
+
+48126 windows queued, 48113 results received, 48112 results written.
+
+48153 windows queued, 48140 results received, 48140 results written.
+
+48182 windows queued, 48169 results received, 48168 results written.
+
+48211 windows queued, 48198 results received, 48197 results written.
+
+48239 windows queued, 48226 results received, 48226 results written.
+
+48267 windows queued, 48254 results received, 48254 results written.
+
+48296 windows queued, 48283 results received, 48282 results written.
+
+48325 windows queued, 48312 results received, 48311 results written.
+
+48353 windows queued, 48340 results received, 48339 results written.
+
+48382 windows queued, 48369 results received, 48368 results written.
+
+48411 windows queued, 48398 results received, 48397 results written.
+
+48438 windows queued, 48425 results received, 48425 results written.
+
+48467 windows queued, 48454 results received, 48454 results written.
+
+48496 windows queued, 48483 results received, 48482 results written.
+
+48524 windows queued, 48511 results received, 48510 results written.
+
+48553 windows queued, 48540 results received, 48539 results written.
+
+48582 windows queued, 48569 results received, 48568 results written.
+
+48610 windows queued, 48597 results received, 48596 results written.
+
+48640 windows queued, 48627 results received, 48626 results written.
+
+48668 windows queued, 48655 results received, 48654 results written.
+
+48695 windows queued, 48682 results received, 48682 results written.
+
+48725 windows queued, 48712 results received, 48712 results written.
+
+48753 windows queued, 48740 results received, 48739 results written.
+
+48781 windows queued, 48768 results received, 48767 results written.
+
+48811 windows queued, 48798 results received, 48797 results written.
+
+48839 windows queued, 48826 results received, 48825 results written.
+
+48868 windows queued, 48855 results received, 48854 results written.
+
+48897 windows queued, 48884 results received, 48883 results written.
+
+48924 windows queued, 48911 results received, 48911 results written.
+
+48953 windows queued, 48940 results received, 48940 results written.
+
+48982 windows queued, 48969 results received, 48968 results written.
+
+49010 windows queued, 48997 results received, 48996 results written.
+
+49039 windows queued, 49026 results received, 49025 results written.
+
+49068 windows queued, 49055 results received, 49054 results written.
+
+49096 windows queued, 49083 results received, 49082 results written.
+
+49125 windows queued, 49112 results received, 49111 results written.
+
+49153 windows queued, 49140 results received, 49140 results written.
+
+49181 windows queued, 49168 results received, 49168 results written.
+
+49210 windows queued, 49197 results received, 49197 results written.
+
+49239 windows queued, 49226 results received, 49225 results written.
+
+49267 windows queued, 49254 results received, 49253 results written.
+
+49296 windows queued, 49283 results received, 49282 results written.
+
+49325 windows queued, 49312 results received, 49311 results written.
+
+49353 windows queued, 49340 results received, 49339 results written.
+
+49382 windows queued, 49369 results received, 49369 results written.
+
+49412 windows queued, 49399 results received, 49398 results written.
+
+49440 windows queued, 49427 results received, 49427 results written.
+
+49468 windows queued, 49455 results received, 49455 results written.
+
+49497 windows queued, 49484 results received, 49484 results written.
+
+49526 windows queued, 49513 results received, 49513 results written.
+
+49554 windows queued, 49541 results received, 49540 results written.
+
+49583 windows queued, 49570 results received, 49569 results written.
+
+49611 windows queued, 49598 results received, 49598 results written.
+
+49639 windows queued, 49626 results received, 49626 results written.
+
+49668 windows queued, 49655 results received, 49655 results written.
+
+49697 windows queued, 49684 results received, 49684 results written.
+
+49725 windows queued, 49712 results received, 49711 results written.
+
+49754 windows queued, 49741 results received, 49740 results written.
+
+49783 windows queued, 49770 results received, 49770 results written.
+
+49810 windows queued, 49797 results received, 49797 results written.
+
+49839 windows queued, 49826 results received, 49826 results written.
+
+49868 windows queued, 49855 results received, 49855 results written.
+
+49896 windows queued, 49883 results received, 49882 results written.
+
+49925 windows queued, 49912 results received, 49911 results written.
+
+49954 windows queued, 49941 results received, 49941 results written.
+
+49981 windows queued, 49968 results received, 49968 results written.
+
+50010 windows queued, 49997 results received, 49996 results written.
+
+50039 windows queued, 50026 results received, 50026 results written.
+
+50067 windows queued, 50054 results received, 50053 results written.
+
+50096 windows queued, 50083 results received, 50082 results written.
+
+50125 windows queued, 50112 results received, 50111 results written.
+
+50152 windows queued, 50139 results received, 50139 results written.
+
+50181 windows queued, 50168 results received, 50168 results written.
+
+50210 windows queued, 50197 results received, 50197 results written.
+
+50238 windows queued, 50225 results received, 50225 results written.
+
+50267 windows queued, 50254 results received, 50254 results written.
+
+50296 windows queued, 50283 results received, 50283 results written.
+
+50324 windows queued, 50311 results received, 50310 results written.
+
+50353 windows queued, 50340 results received, 50339 results written.
+
+50382 windows queued, 50369 results received, 50368 results written.
+
+50409 windows queued, 50396 results received, 50396 results written.
+
+50438 windows queued, 50425 results received, 50425 results written.
+
+50467 windows queued, 50454 results received, 50454 results written.
+
+50496 windows queued, 50483 results received, 50482 results written.
+
+50523 windows queued, 50510 results received, 50510 results written.
+
+50552 windows queued, 50539 results received, 50538 results written.
+
+50581 windows queued, 50568 results received, 50568 results written.
+
+50609 windows queued, 50596 results received, 50596 results written.
+
+50637 windows queued, 50624 results received, 50623 results written.
+
+50667 windows queued, 50654 results received, 50653 results written.
+
+50695 windows queued, 50682 results received, 50681 results written.
+
+50723 windows queued, 50710 results received, 50709 results written.
+
+50752 windows queued, 50739 results received, 50738 results written.
+
+50782 windows queued, 50769 results received, 50769 results written.
+
+50811 windows queued, 50798 results received, 50797 results written.
+
+50839 windows queued, 50826 results received, 50824 results written.
+
+50869 windows queued, 50856 results received, 50856 results written.
+
+50897 windows queued, 50884 results received, 50883 results written.
+
+50925 windows queued, 50912 results received, 50912 results written.
+
+50954 windows queued, 50941 results received, 50941 results written.
+
+50982 windows queued, 50969 results received, 50968 results written.
+
+51010 windows queued, 50997 results received, 50997 results written.
+
+51039 windows queued, 51026 results received, 51026 results written.
+
+51067 windows queued, 51054 results received, 51054 results written.
+
+51095 windows queued, 51082 results received, 51081 results written.
+
+51124 windows queued, 51111 results received, 51111 results written.
+
+51152 windows queued, 51139 results received, 51139 results written.
+
+51180 windows queued, 51167 results received, 51166 results written.
+
+51209 windows queued, 51196 results received, 51196 results written.
+
+51237 windows queued, 51224 results received, 51224 results written.
+
+51265 windows queued, 51252 results received, 51251 results written.
+
+51295 windows queued, 51282 results received, 51281 results written.
+
+51322 windows queued, 51309 results received, 51309 results written.
+
+51350 windows queued, 51337 results received, 51336 results written.
+
+51380 windows queued, 51367 results received, 51366 results written.
+
+51408 windows queued, 51395 results received, 51394 results written.
+
+51435 windows queued, 51422 results received, 51421 results written.
+
+51465 windows queued, 51452 results received, 51450 results written.
+
+51493 windows queued, 51480 results received, 51479 results written.
+
+51521 windows queued, 51508 results received, 51506 results written.
+
+51550 windows queued, 51537 results received, 51535 results written.
+
+51578 windows queued, 51565 results received, 51564 results written.
+
+51606 windows queued, 51593 results received, 51591 results written.
+
+51637 windows queued, 51624 results received, 51623 results written.
+
+51664 windows queued, 51651 results received, 51650 results written.
+
+51692 windows queued, 51679 results received, 51678 results written.
+
+51722 windows queued, 51709 results received, 51707 results written.
+
+51750 windows queued, 51737 results received, 51735 results written.
+
+51777 windows queued, 51764 results received, 51763 results written.
+
+51807 windows queued, 51794 results received, 51792 results written.
+
+51836 windows queued, 51823 results received, 51823 results written.
+
+51864 windows queued, 51851 results received, 51851 results written.
+
+51893 windows queued, 51880 results received, 51879 results written.
+
+51921 windows queued, 51908 results received, 51908 results written.
+
+51951 windows queued, 51938 results received, 51937 results written.
+
+51980 windows queued, 51967 results received, 51967 results written.
+
+52005 windows queued, 51992 results received, 51991 results written.
+
+52034 windows queued, 52021 results received, 52019 results written.
+
+52063 windows queued, 52050 results received, 52048 results written.
+
+52091 windows queued, 52078 results received, 52076 results written.
+
+52120 windows queued, 52107 results received, 52104 results written.
+
+52147 windows queued, 52134 results received, 52133 results written.
+
+52176 windows queued, 52163 results received, 52162 results written.
+
+52205 windows queued, 52192 results received, 52190 results written.
+
+52233 windows queued, 52220 results received, 52219 results written.
+
+52262 windows queued, 52249 results received, 52248 results written.
+
+52290 windows queued, 52277 results received, 52275 results written.
+
+52318 windows queued, 52305 results received, 52304 results written.
+
+52347 windows queued, 52334 results received, 52333 results written.
+
+52375 windows queued, 52362 results received, 52361 results written.
+
+52404 windows queued, 52391 results received, 52390 results written.
+
+52433 windows queued, 52420 results received, 52419 results written.
+
+52460 windows queued, 52447 results received, 52447 results written.
+
+52489 windows queued, 52476 results received, 52475 results written.
+
+52518 windows queued, 52505 results received, 52504 results written.
+
+52547 windows queued, 52534 results received, 52534 results written.
+
+52576 windows queued, 52563 results received, 52563 results written.
+
+52605 windows queued, 52592 results received, 52592 results written.
+
+52633 windows queued, 52620 results received, 52619 results written.
+
+52662 windows queued, 52649 results received, 52648 results written.
+
+52690 windows queued, 52677 results received, 52676 results written.
+
+52718 windows queued, 52705 results received, 52704 results written.
+
+52747 windows queued, 52734 results received, 52733 results written.
+
+52776 windows queued, 52763 results received, 52761 results written.
+
+52804 windows queued, 52791 results received, 52790 results written.
+
+52832 windows queued, 52819 results received, 52819 results written.
+
+52860 windows queued, 52847 results received, 52847 results written.
+
+52889 windows queued, 52876 results received, 52875 results written.
+
+52918 windows queued, 52905 results received, 52904 results written.
+
+52946 windows queued, 52933 results received, 52932 results written.
+
+52975 windows queued, 52962 results received, 52961 results written.
+
+53002 windows queued, 52989 results received, 52989 results written.
+
+53031 windows queued, 53018 results received, 53018 results written.
+
+53060 windows queued, 53047 results received, 53046 results written.
+
+53088 windows queued, 53075 results received, 53074 results written.
+
+53117 windows queued, 53104 results received, 53103 results written.
+
+53145 windows queued, 53132 results received, 53132 results written.
+
+53173 windows queued, 53160 results received, 53160 results written.
+
+53202 windows queued, 53189 results received, 53189 results written.
+
+53231 windows queued, 53218 results received, 53217 results written.
+
+53259 windows queued, 53246 results received, 53245 results written.
+
+53288 windows queued, 53275 results received, 53274 results written.
+
+53316 windows queued, 53303 results received, 53303 results written.
+
+53344 windows queued, 53331 results received, 53331 results written.
+
+53373 windows queued, 53360 results received, 53360 results written.
+
+53402 windows queued, 53389 results received, 53389 results written.
+
+53430 windows queued, 53417 results received, 53416 results written.
+
+53459 windows queued, 53446 results received, 53445 results written.
+
+53487 windows queued, 53474 results received, 53473 results written.
+
+53515 windows queued, 53502 results received, 53502 results written.
+
+53543 windows queued, 53530 results received, 53530 results written.
+
+53572 windows queued, 53559 results received, 53558 results written.
+
+53601 windows queued, 53588 results received, 53588 results written.
+
+53629 windows queued, 53616 results received, 53615 results written.
+
+53658 windows queued, 53645 results received, 53645 results written.
+
+53686 windows queued, 53673 results received, 53673 results written.
+
+53714 windows queued, 53701 results received, 53700 results written.
+
+53744 windows queued, 53731 results received, 53731 results written.
+
+53771 windows queued, 53758 results received, 53758 results written.
+
+53799 windows queued, 53786 results received, 53785 results written.
+
+53829 windows queued, 53816 results received, 53816 results written.
+
+53857 windows queued, 53844 results received, 53843 results written.
+
+53885 windows queued, 53872 results received, 53872 results written.
+
+53914 windows queued, 53901 results received, 53901 results written.
+
+53942 windows queued, 53929 results received, 53929 results written.
+
+53971 windows queued, 53958 results received, 53957 results written.
+
+54000 windows queued, 53987 results received, 53987 results written.
+
+54027 windows queued, 54014 results received, 54014 results written.
+
+54056 windows queued, 54043 results received, 54042 results written.
+
+54085 windows queued, 54072 results received, 54072 results written.
+
+54113 windows queued, 54100 results received, 54099 results written.
+
+54141 windows queued, 54128 results received, 54128 results written.
+
+54170 windows queued, 54157 results received, 54157 results written.
+
+54199 windows queued, 54186 results received, 54185 results written.
+
+54227 windows queued, 54214 results received, 54214 results written.
+
+54255 windows queued, 54242 results received, 54242 results written.
+
+54284 windows queued, 54271 results received, 54270 results written.
+
+54312 windows queued, 54299 results received, 54299 results written.
+
+54340 windows queued, 54327 results received, 54327 results written.
+
+54369 windows queued, 54356 results received, 54355 results written.
+
+54398 windows queued, 54385 results received, 54385 results written.
+
+54426 windows queued, 54413 results received, 54412 results written.
+
+54455 windows queued, 54442 results received, 54441 results written.
+
+54483 windows queued, 54470 results received, 54470 results written.
+
+54510 windows queued, 54497 results received, 54496 results written.
+
+54539 windows queued, 54526 results received, 54524 results written.
+
+54568 windows queued, 54555 results received, 54554 results written.
+
+54595 windows queued, 54582 results received, 54580 results written.
+
+54625 windows queued, 54612 results received, 54608 results written.
+
+54652 windows queued, 54639 results received, 54638 results written.
+
+54680 windows queued, 54667 results received, 54666 results written.
+
+54710 windows queued, 54697 results received, 54695 results written.
+
+54738 windows queued, 54725 results received, 54724 results written.
+
+54766 windows queued, 54753 results received, 54751 results written.
+
+54795 windows queued, 54782 results received, 54780 results written.
+
+54823 windows queued, 54810 results received, 54809 results written.
+
+54852 windows queued, 54839 results received, 54837 results written.
+
+54881 windows queued, 54868 results received, 54867 results written.
+
+54909 windows queued, 54896 results received, 54895 results written.
+
+54938 windows queued, 54925 results received, 54923 results written.
+
+54966 windows queued, 54953 results received, 54952 results written.
+
+54994 windows queued, 54981 results received, 54980 results written.
+
+55023 windows queued, 55010 results received, 55009 results written.
+
+55052 windows queued, 55039 results received, 55038 results written.
+
+55080 windows queued, 55067 results received, 55066 results written.
+
+55109 windows queued, 55096 results received, 55095 results written.
+
+55137 windows queued, 55124 results received, 55124 results written.
+
+55165 windows queued, 55152 results received, 55151 results written.
+
+55195 windows queued, 55182 results received, 55181 results written.
+
+55223 windows queued, 55210 results received, 55209 results written.
+
+55251 windows queued, 55238 results received, 55237 results written.
+
+55281 windows queued, 55268 results received, 55267 results written.
+
+55308 windows queued, 55295 results received, 55295 results written.
+
+55336 windows queued, 55323 results received, 55323 results written.
+
+55366 windows queued, 55353 results received, 55353 results written.
+
+55394 windows queued, 55381 results received, 55380 results written.
+
+55422 windows queued, 55409 results received, 55408 results written.
+
+55452 windows queued, 55439 results received, 55438 results written.
+
+55479 windows queued, 55466 results received, 55466 results written.
+
+55508 windows queued, 55495 results received, 55495 results written.
+
+55538 windows queued, 55525 results received, 55525 results written.
+
+55566 windows queued, 55553 results received, 55553 results written.
+
+55597 windows queued, 55584 results received, 55584 results written.
+
+55625 windows queued, 55612 results received, 55612 results written.
+
+55653 windows queued, 55640 results received, 55639 results written.
+
+55683 windows queued, 55670 results received, 55670 results written.
+
+55711 windows queued, 55698 results received, 55697 results written.
+
+55739 windows queued, 55726 results received, 55725 results written.
+
+55768 windows queued, 55755 results received, 55755 results written.
+
+55796 windows queued, 55783 results received, 55783 results written.
+
+55825 windows queued, 55812 results received, 55811 results written.
+
+55854 windows queued, 55841 results received, 55840 results written.
+
+55882 windows queued, 55869 results received, 55868 results written.
+
+55910 windows queued, 55897 results received, 55896 results written.
+
+55939 windows queued, 55926 results received, 55925 results written.
+
+55967 windows queued, 55954 results received, 55953 results written.
+
+55997 windows queued, 55984 results received, 55982 results written.
+
+56025 windows queued, 56012 results received, 56010 results written.
+
+56052 windows queued, 56039 results received, 56038 results written.
+
+56082 windows queued, 56069 results received, 56066 results written.
+
+56111 windows queued, 56098 results received, 56098 results written.
+
+56139 windows queued, 56126 results received, 56125 results written.
+
+56169 windows queued, 56156 results received, 56155 results written.
+
+56197 windows queued, 56184 results received, 56183 results written.
+
+56225 windows queued, 56212 results received, 56212 results written.
+
+56254 windows queued, 56241 results received, 56240 results written.
+
+56282 windows queued, 56269 results received, 56268 results written.
+
+56311 windows queued, 56298 results received, 56297 results written.
+
+56340 windows queued, 56327 results received, 56326 results written.
+
+56368 windows queued, 56355 results received, 56353 results written.
+
+56397 windows queued, 56384 results received, 56382 results written.
+
+56425 windows queued, 56412 results received, 56411 results written.
+
+56455 windows queued, 56442 results received, 56440 results written.
+
+56482 windows queued, 56469 results received, 56468 results written.
+
+56510 windows queued, 56497 results received, 56496 results written.
+
+56539 windows queued, 56526 results received, 56524 results written.
+
+56568 windows queued, 56555 results received, 56553 results written.
+
+56597 windows queued, 56584 results received, 56583 results written.
+
+56626 windows queued, 56613 results received, 56612 results written.
+
+56655 windows queued, 56642 results received, 56641 results written.
+
+56682 windows queued, 56669 results received, 56669 results written.
+
+56711 windows queued, 56698 results received, 56697 results written.
+
+56740 windows queued, 56727 results received, 56726 results written.
+
+56768 windows queued, 56755 results received, 56754 results written.
+
+56797 windows queued, 56784 results received, 56783 results written.
+
+56825 windows queued, 56812 results received, 56812 results written.
+
+56853 windows queued, 56840 results received, 56839 results written.
+
+56883 windows queued, 56870 results received, 56869 results written.
+
+56911 windows queued, 56898 results received, 56897 results written.
+
+56939 windows queued, 56926 results received, 56925 results written.
+
+56967 windows queued, 56954 results received, 56953 results written.
+
+56996 windows queued, 56983 results received, 56982 results written.
+
+57025 windows queued, 57012 results received, 57010 results written.
+
+57054 windows queued, 57041 results received, 57039 results written.
+
+57081 windows queued, 57068 results received, 57067 results written.
+
+57111 windows queued, 57098 results received, 57095 results written.
+
+57139 windows queued, 57126 results received, 57125 results written.
+
+57168 windows queued, 57155 results received, 57154 results written.
+
+57198 windows queued, 57185 results received, 57184 results written.
+
+57225 windows queued, 57212 results received, 57212 results written.
+
+57254 windows queued, 57241 results received, 57240 results written.
+
+57285 windows queued, 57272 results received, 57272 results written.
+
+57312 windows queued, 57299 results received, 57299 results written.
+
+57342 windows queued, 57329 results received, 57329 results written.
+
+57372 windows queued, 57359 results received, 57359 results written.
+
+57400 windows queued, 57387 results received, 57386 results written.
+
+57429 windows queued, 57416 results received, 57416 results written.
+
+57459 windows queued, 57446 results received, 57446 results written.
+
+57489 windows queued, 57476 results received, 57476 results written.
+
+57517 windows queued, 57504 results received, 57503 results written.
+
+57547 windows queued, 57534 results received, 57533 results written.
+
+57576 windows queued, 57563 results received, 57563 results written.
+
+57604 windows queued, 57591 results received, 57591 results written.
+
+57634 windows queued, 57621 results received, 57620 results written.
+
+57664 windows queued, 57651 results received, 57651 results written.
+
+57691 windows queued, 57678 results received, 57678 results written.
+
+57723 windows queued, 57710 results received, 57710 results written.
+
+57751 windows queued, 57738 results received, 57738 results written.
+
+57779 windows queued, 57766 results received, 57765 results written.
+
+57811 windows queued, 57798 results received, 57798 results written.
+
+57838 windows queued, 57825 results received, 57825 results written.
+
+57867 windows queued, 57854 results received, 57854 results written.
+
+57898 windows queued, 57885 results received, 57885 results written.
+
+57926 windows queued, 57913 results received, 57913 results written.
+
+57956 windows queued, 57943 results received, 57942 results written.
+
+57985 windows queued, 57972 results received, 57972 results written.
+
+58013 windows queued, 58000 results received, 58000 results written.
+
+58043 windows queued, 58030 results received, 58030 results written.
+
+58073 windows queued, 58060 results received, 58060 results written.
+
+58103 windows queued, 58090 results received, 58090 results written.
+
+58131 windows queued, 58118 results received, 58118 results written.
+
+58160 windows queued, 58147 results received, 58147 results written.
+
+58190 windows queued, 58177 results received, 58177 results written.
+
+58219 windows queued, 58206 results received, 58206 results written.
+
+58250 windows queued, 58237 results received, 58237 results written.
+
+58277 windows queued, 58264 results received, 58264 results written.
+
+58306 windows queued, 58293 results received, 58293 results written.
+
+58337 windows queued, 58324 results received, 58324 results written.
+
+58365 windows queued, 58352 results received, 58352 results written.
+
+58396 windows queued, 58383 results received, 58382 results written.
+
+58424 windows queued, 58411 results received, 58411 results written.
+
+58452 windows queued, 58439 results received, 58439 results written.
+
+58483 windows queued, 58470 results received, 58470 results written.
+
+58511 windows queued, 58498 results received, 58498 results written.
+
+58539 windows queued, 58526 results received, 58525 results written.
+
+58568 windows queued, 58555 results received, 58555 results written.
+
+58597 windows queued, 58584 results received, 58583 results written.
+
+58625 windows queued, 58612 results received, 58611 results written.
+
+58654 windows queued, 58641 results received, 58640 results written.
+
+58683 windows queued, 58670 results received, 58669 results written.
+
+58711 windows queued, 58698 results received, 58698 results written.
+
+58740 windows queued, 58727 results received, 58727 results written.
+
+58768 windows queued, 58755 results received, 58753 results written.
+
+58797 windows queued, 58784 results received, 58782 results written.
+
+58825 windows queued, 58812 results received, 58810 results written.
+
+58854 windows queued, 58841 results received, 58839 results written.
+
+58882 windows queued, 58869 results received, 58868 results written.
+
+58911 windows queued, 58898 results received, 58895 results written.
+
+58940 windows queued, 58927 results received, 58924 results written.
+
+58967 windows queued, 58954 results received, 58953 results written.
+
+58996 windows queued, 58983 results received, 58981 results written.
+
+59025 windows queued, 59012 results received, 59010 results written.
+
+59053 windows queued, 59040 results received, 59039 results written.
+
+59082 windows queued, 59069 results received, 59066 results written.
+
+59111 windows queued, 59098 results received, 59096 results written.
+
+59138 windows queued, 59125 results received, 59124 results written.
+
+59167 windows queued, 59154 results received, 59152 results written.
+
+59196 windows queued, 59183 results received, 59182 results written.
+
+59224 windows queued, 59211 results received, 59210 results written.
+
+59254 windows queued, 59241 results received, 59237 results written.
+
+59282 windows queued, 59269 results received, 59267 results written.
+
+59309 windows queued, 59296 results received, 59295 results written.
+
+59339 windows queued, 59326 results received, 59323 results written.
+
+59367 windows queued, 59354 results received, 59353 results written.
+
+59395 windows queued, 59382 results received, 59381 results written.
+
+59425 windows queued, 59412 results received, 59409 results written.
+
+59452 windows queued, 59439 results received, 59438 results written.
+
+59481 windows queued, 59468 results received, 59467 results written.
+
+59510 windows queued, 59497 results received, 59494 results written.
+
+59538 windows queued, 59525 results received, 59523 results written.
+
+59566 windows queued, 59553 results received, 59551 results written.
+
+59595 windows queued, 59582 results received, 59580 results written.
+
+59623 windows queued, 59610 results received, 59609 results written.
+
+59652 windows queued, 59639 results received, 59637 results written.
+
+59680 windows queued, 59667 results received, 59666 results written.
+
+59709 windows queued, 59696 results received, 59694 results written.
+
+59738 windows queued, 59725 results received, 59723 results written.
+
+59766 windows queued, 59753 results received, 59752 results written.
+
+59795 windows queued, 59782 results received, 59780 results written.
+
+59824 windows queued, 59811 results received, 59809 results written.
+
+59852 windows queued, 59839 results received, 59838 results written.
+
+59880 windows queued, 59867 results received, 59866 results written.
+
+59910 windows queued, 59897 results received, 59895 results written.
+
+59937 windows queued, 59924 results received, 59923 results written.
+
+59968 windows queued, 59955 results received, 59955 results written.
+
+59997 windows queued, 59984 results received, 59984 results written.
+
+60026 windows queued, 60013 results received, 60012 results written.
+
+60056 windows queued, 60043 results received, 60042 results written.
+
+60085 windows queued, 60072 results received, 60071 results written.
+
+60113 windows queued, 60100 results received, 60100 results written.
+
+60143 windows queued, 60130 results received, 60130 results written.
+
+60172 windows queued, 60159 results received, 60159 results written.
+
+60203 windows queued, 60190 results received, 60190 results written.
+
+60231 windows queued, 60218 results received, 60218 results written.
+
+60260 windows queued, 60247 results received, 60246 results written.
+
+60291 windows queued, 60278 results received, 60278 results written.
+
+60319 windows queued, 60306 results received, 60305 results written.
+
+60350 windows queued, 60337 results received, 60337 results written.
+
+60378 windows queued, 60365 results received, 60365 results written.
+
+60406 windows queued, 60393 results received, 60393 results written.
+
+60438 windows queued, 60425 results received, 60425 results written.
+
+60466 windows queued, 60453 results received, 60453 results written.
+
+60494 windows queued, 60481 results received, 60480 results written.
+
+60526 windows queued, 60513 results received, 60513 results written.
+
+60553 windows queued, 60540 results received, 60540 results written.
+
+60583 windows queued, 60570 results received, 60570 results written.
+
+60613 windows queued, 60600 results received, 60600 results written.
+
+60641 windows queued, 60628 results received, 60628 results written.
+
+60672 windows queued, 60659 results received, 60659 results written.
+
+60701 windows queued, 60688 results received, 60688 results written.
+
+60730 windows queued, 60717 results received, 60717 results written.
+
+60759 windows queued, 60746 results received, 60746 results written.
+
+60788 windows queued, 60775 results received, 60775 results written.
+
+60818 windows queued, 60805 results received, 60805 results written.
+
+60847 windows queued, 60834 results received, 60834 results written.
+
+60878 windows queued, 60865 results received, 60865 results written.
+
+60906 windows queued, 60893 results received, 60892 results written.
+
+60935 windows queued, 60922 results received, 60921 results written.
+
+60965 windows queued, 60952 results received, 60952 results written.
+
+60993 windows queued, 60980 results received, 60980 results written.
+
+61024 windows queued, 61011 results received, 61011 results written.
+
+61053 windows queued, 61040 results received, 61040 results written.
+
+61081 windows queued, 61068 results received, 61068 results written.
+
+61113 windows queued, 61100 results received, 61100 results written.
+
+61141 windows queued, 61128 results received, 61127 results written.
+
+61168 windows queued, 61155 results received, 61154 results written.
+
+61198 windows queued, 61185 results received, 61183 results written.
+
+61226 windows queued, 61213 results received, 61211 results written.
+
+61255 windows queued, 61242 results received, 61239 results written.
+
+61282 windows queued, 61269 results received, 61268 results written.
+
+61312 windows queued, 61299 results received, 61298 results written.
+
+61341 windows queued, 61328 results received, 61327 results written.
+
+61369 windows queued, 61356 results received, 61355 results written.
+
+61398 windows queued, 61385 results received, 61382 results written.
+
+61426 windows queued, 61413 results received, 61411 results written.
+
+61455 windows queued, 61442 results received, 61440 results written.
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd-serbyn128: error: *** JOB 16704095 ON serbyn128 CANCELLED AT 2024-04-08T17:21:18 ***
+slurmstepd-serbyn128: error: *** STEP 16704095.0 ON serbyn128 CANCELLED AT 2024-04-08T17:21:18 ***
