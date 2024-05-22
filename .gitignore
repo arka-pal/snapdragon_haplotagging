@@ -5,13 +5,10 @@
 
 ## Folders 
 Amajus_alleles-ancestral/
-Amajus_poolseq/*
-ARGs/
+Amajus_poolseq/
 bam*/
 fastq/
-genome_scans/
 misc_toSort/
 old_VCFs/
-variants/
-wrath/
+
 
