@@ -1,0 +1,17 @@
+PLINK v2.00a2LM 64-bit Intel (28 Oct 2018)
+Options in effect:
+  --allow-extra-chr
+  --double-id
+  --vcf test.vcf.gz
+
+Hostname: marcin80
+Working directory: /nfs/scistore18/bartogrp/apal/snap_hap/genome_scans/ld_decay
+Start time: Mon Oct 16 09:46:26 2023
+
+Random number seed: 1697442386
+225550 MiB RAM detected; reserving 112775 MiB for main workspace.
+Using up to 24 threads (change this with --threads).
+--vcf: 48009 variants scanned.
+--vcf: plink2.pgen + plink2.pvar + plink2.psam written.
+
+End time: Mon Oct 16 09:46:28 2023
