@@ -4,14 +4,21 @@
 
 
 ## Folders 
-Amajus_alleles-ancestral/
-Amajus_poolseq/
+./Amajus_poolseq/*
+./Amolle_syncFiles/*
+
 bam*/
 fastq/
 misc_toSort/
 old_VCFs/
 
-## ./genome_scans
+
+### Specific subfolder/files ###
+
+## Amajus_alleles_ancestral
+./Amajus_alleles_ancestral/pos/*pos
+
+## genome_scans
 ./genome_scans/_figures/plt_dp-MF-YF_perSite.pdf
 ./genome_scans/vcf_regions/*vcf*
 ./genome_scans/pops_MF_YF/*
