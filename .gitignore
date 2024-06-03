@@ -11,4 +11,7 @@ fastq/
 misc_toSort/
 old_VCFs/
 
+## Genome Scans
+./genome_scans/_figures/plt_dp-MF-YF_perSite.pdf
+
 
