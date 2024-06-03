@@ -16,8 +16,8 @@ old_VCFs/
 ### Specific subfolder/files ###
 
 ## Amajus_alleles_ancestral
-./Amajus_alleles_ancestral/pos/*pos
-./Amajus_alleles-ancestral/alleleDat_chrom/*
+Amajus_alleles_ancestral/pos/
+Amajus_alleles-ancestral/alleleDat_chrom
 
 ## genome_scans
 ./genome_scans/_figures/plt_dp-MF-YF_perSite.pdf
