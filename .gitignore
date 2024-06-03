@@ -14,8 +14,8 @@ old_VCFs/
 ## ./genome_scans
 ./genome_scans/_figures/plt_dp-MF-YF_perSite.pdf
 ./genome_scans/vcf_regions/*vcf*
-./genome_scans/pops_MF_YF
-./genome_scans/jobs
+./genome_scans/pops_MF_YF/*
+./genome_scans/jobs/*
 
 
 
