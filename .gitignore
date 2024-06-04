@@ -1,13 +1,13 @@
-## File Types
+### File Types ###
 **/*.sync
 **/*.vcf.gz*
-**/*.gt*
+**/*.gt
 **/*.pos
 **/*.ipynb_checkpoints
 **/*.DS_Store
 
 
-## Folders 
+### Folders ###
 Amajus_poolseq
 Amolle_syncFiles
 
@@ -22,6 +22,9 @@ old_VCFs/
 ## Amajus_alleles_ancestral
 Amajus_alleles_ancestral/pos
 Amajus_alleles-ancestral/alleleDat_chrom
+
+## ARGs
+ARGs/sg_run1-2024May_RosEl-MY3
 
 ## genome_scans
 genome_scans/_figures/plt_dp-MF-YF_perSite.pdf
