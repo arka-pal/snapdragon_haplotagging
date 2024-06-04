@@ -4,8 +4,8 @@
 
 
 ## Folders 
-./Amajus_poolseq/*
-./Amolle_syncFiles/*
+Amajus_poolseq
+Amolle_syncFiles
 
 bam*/
 fastq/
@@ -25,5 +25,5 @@ Amajus_alleles-ancestral/alleleDat_chrom
 ./genome_scans/pops_MF_YF/*
 ./genome_scans/jobs/*
 
-
+## wrath
 
