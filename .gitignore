@@ -2,6 +2,7 @@
 **/*.sync
 **/*.vcf.gz*
 **/*.gt*
+**/*.pos
 **/*.ipynb_checkpoints
 **/*.DS_Store
 
@@ -19,7 +20,7 @@ old_VCFs/
 ### Specific subfolder/files ###
 
 ## Amajus_alleles_ancestral
-Amajus_alleles_ancestral/pos/
+Amajus_alleles_ancestral/pos
 Amajus_alleles-ancestral/alleleDat_chrom
 
 ## genome_scans
