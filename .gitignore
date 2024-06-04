@@ -1,6 +1,9 @@
 ## File Types
 **/*.sync
 **/*.vcf.gz*
+**/*.gt*
+**/*.ipynb_checkpoints
+**/*.DS_Store
 
 
 ## Folders 
@@ -20,10 +23,16 @@ Amajus_alleles_ancestral/pos/
 Amajus_alleles-ancestral/alleleDat_chrom
 
 ## genome_scans
-./genome_scans/_figures/plt_dp-MF-YF_perSite.pdf
-./genome_scans/vcf_regions/*vcf*
-./genome_scans/pops_MF_YF/*
-./genome_scans/jobs/*
+genome_scans/_figures/plt_dp-MF-YF_perSite.pdf
+genome_scans/vcf_regions/*vcf*
+genome_scans/pops_MF_YF
+genome_scans/jobs
+
+## recRate
+recRate
+
+## ref_genome
+ref_genome/v3.5
 
 ## wrath
 wrath/AURINA
