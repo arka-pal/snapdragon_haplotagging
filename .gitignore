@@ -10,11 +10,10 @@
 ### Folders ###
 Amajus_poolseq
 Amolle_syncFiles
-
-bam*/
-fastq/
-misc_toSort/
-old_VCFs/
+bams
+fastq
+misc_toSort
+variants
 
 
 ### Specific subfolder/files ###
@@ -26,11 +25,19 @@ Amajus_alleles-ancestral/alleleDat_chrom
 ## ARGs
 ARGs/sg_run1-2024May_RosEl-MY3
 
+## bamqc
+bamqc/indv_bamqc
+bamqc/multi_bamqc
+
 ## genome_scans
 genome_scans/_figures/plt_dp-MF-YF_perSite.pdf
 genome_scans/vcf_regions/*vcf*
 genome_scans/pops_MF_YF
 genome_scans/jobs
+
+##phaseComparison
+phaseComparison/misc_old
+phaseComparison/run1-240126
 
 ## recRate
 recRate
