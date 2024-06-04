@@ -13,7 +13,6 @@ Amolle_syncFiles
 bams
 fastq
 misc_toSort
-variants
 
 
 ### Specific subfolder/files ###
@@ -44,6 +43,9 @@ recRate
 
 ## ref_genome
 ref_genome/v3.5
+
+## variants
+variants
 
 ## wrath
 wrath/AURINA
