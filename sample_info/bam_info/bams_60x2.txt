@@ -1,0 +1,2 @@
+/nfs/scistore18/bartogrp/apal/snap_hap/bams/v3.5/bams_merged_2023/60x2-Plate10-7_Am_Pla_pb0898_v3.5.sorted.BXnum.merged.bam
+/nfs/scistore18/bartogrp/apal/snap_hap/bams/v3.5/bams_merged_2023/60x2-Plate9-17_Am_Pla_pb1042_v3.5.sorted.BXnum.merged.bam

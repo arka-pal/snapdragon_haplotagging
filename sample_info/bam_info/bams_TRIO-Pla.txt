@@ -1,0 +1,15 @@
+/nfs/scistore18/bartogrp/apal/snap_hap/bams/v3.5/ema_align/TRIO/TRIO-10_Am_Pla_S1803_v3.5.sorted.BXnum.bam
+/nfs/scistore18/bartogrp/apal/snap_hap/bams/v3.5/ema_align/TRIO/TRIO-11_Am_Pla_S5237_v3.5.sorted.BXnum.bam
+/nfs/scistore18/bartogrp/apal/snap_hap/bams/v3.5/ema_align/TRIO/TRIO-12_Am_Pla_T0082_v3.5.sorted.BXnum.bam
+/nfs/scistore18/bartogrp/apal/snap_hap/bams/v3.5/ema_align/TRIO/TRIO-13_Am_Pla_T0281_v3.5.sorted.BXnum.bam
+/nfs/scistore18/bartogrp/apal/snap_hap/bams/v3.5/ema_align/TRIO/TRIO-14_Am_Pla_T1352_v3.5.sorted.BXnum.bam
+/nfs/scistore18/bartogrp/apal/snap_hap/bams/v3.5/ema_align/TRIO/TRIO-15_Am_Pla_V0574_v3.5.sorted.BXnum.bam
+/nfs/scistore18/bartogrp/apal/snap_hap/bams/v3.5/ema_align/TRIO/TRIO-1_Am_Pla_L1190_v3.5.sorted.BXnum.bam
+/nfs/scistore18/bartogrp/apal/snap_hap/bams/v3.5/ema_align/TRIO/TRIO-2_Am_Pla_L1293_v3.5.sorted.BXnum.bam
+/nfs/scistore18/bartogrp/apal/snap_hap/bams/v3.5/ema_align/TRIO/TRIO-3_Am_Pla_M0989_v3.5.sorted.BXnum.bam
+/nfs/scistore18/bartogrp/apal/snap_hap/bams/v3.5/ema_align/TRIO/TRIO-4_Am_Pla_P0192_v3.5.sorted.BXnum.bam
+/nfs/scistore18/bartogrp/apal/snap_hap/bams/v3.5/ema_align/TRIO/TRIO-5_Am_Pla_P0239_v3.5.sorted.BXnum.bam
+/nfs/scistore18/bartogrp/apal/snap_hap/bams/v3.5/ema_align/TRIO/TRIO-6_Am_Pla_P0247_v3.5.sorted.BXnum.bam
+/nfs/scistore18/bartogrp/apal/snap_hap/bams/v3.5/ema_align/TRIO/TRIO-7_Am_Pla_P0278_v3.5.sorted.BXnum.bam
+/nfs/scistore18/bartogrp/apal/snap_hap/bams/v3.5/ema_align/TRIO/TRIO-8_Am_Pla_P0293_v3.5.sorted.BXnum.bam
+/nfs/scistore18/bartogrp/apal/snap_hap/bams/v3.5/ema_align/TRIO/TRIO-9_Am_Pla_P0578_v3.5.sorted.BXnum.bam

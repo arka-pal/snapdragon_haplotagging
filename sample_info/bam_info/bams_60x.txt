@@ -1,0 +1,1 @@
+/nfs/scistore18/bartogrp/apal/snap_hap/bams/v3.5/bams_merged_2023/60x-1_Am_Pla_pb0464_v3.5.sorted.BXnum.merged.bam

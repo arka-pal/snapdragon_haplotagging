@@ -1,0 +1,10 @@
+/nfs/scistore18/bartogrp/apal/snap_hap/bams/v3.5/ema_align/n96_misc/n96_Alatifgolium_Des_E373-3_v3.5.sorted.BXnum.bam
+/nfs/scistore18/bartogrp/apal/snap_hap/bams/v3.5/ema_align/n96_misc/n96_Amolle_Cadi_x4248_v3.5.sorted.BXnum.bam
+/nfs/scistore18/bartogrp/apal/snap_hap/bams/v3.5/ema_align/n96_misc/n96_Amolle_Cadi_x4251_v3.5.sorted.BXnum.bam
+/nfs/scistore18/bartogrp/apal/snap_hap/bams/v3.5/ema_align/n96_misc/n96_Amolle_Cadi_x4258_v3.5.sorted.BXnum.bam
+/nfs/scistore18/bartogrp/apal/snap_hap/bams/v3.5/ema_align/n96_misc/n96_Amolle_Cadi_x4260_v3.5.sorted.BXnum.bam
+/nfs/scistore18/bartogrp/apal/snap_hap/bams/v3.5/ema_align/n96_misc/n96_Amolle_Des_D357-4_v3.5.sorted.BXnum.bam
+/nfs/scistore18/bartogrp/apal/snap_hap/bams/v3.5/ema_align/n96_misc/n96_Asempervirens_Des_D368-2_v3.5.sorted.BXnum.bam
+/nfs/scistore18/bartogrp/apal/snap_hap/bams/v3.5/ema_align/n96_misc/n96_Asiculum_Des_M109-5_v3.5.sorted.BXnum.bam
+/nfs/scistore18/bartogrp/apal/snap_hap/bams/v3.5/ema_align/n96_misc/n96_Lsalzmannii_Des_P171-2_v3.5.sorted.BXnum.bam
+/nfs/scistore18/bartogrp/apal/snap_hap/bams/v3.5/ema_align/n96_misc/n96_Morotium_Des_P168-1_v3.5.sorted.BXnum.bam

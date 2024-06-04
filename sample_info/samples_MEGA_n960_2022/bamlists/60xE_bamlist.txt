@@ -1,0 +1,3 @@
+/nfs/scistore18/bartogrp/apal/snap_hap/bams/v3.5/ema_align/60xE/60xE-1_Am_Pla_pb0464_v3.5.sorted.BXnum.bam
+/nfs/scistore18/bartogrp/apal/snap_hap/bams/v3.5/ema_align/60xE/60xE-2_Am_Pla_pb1042_v3.5.sorted.BXnum.bam
+/nfs/scistore18/bartogrp/apal/snap_hap/bams/v3.5/ema_align/60xE/60xE-3_Am_Pla_pb0898_v3.5.sorted.BXnum.bam
