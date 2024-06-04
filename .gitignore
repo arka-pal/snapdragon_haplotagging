@@ -8,7 +8,7 @@
 
 
 ### Folders ###
-Amajus_poolseq
+Amajus_poolSeq
 Amolle_syncFiles
 bams
 fastq
@@ -45,7 +45,7 @@ recRate
 ref_genome/v3.5
 
 ## variants
-variants
+Variants
 
 ## wrath
 wrath/AURINA
