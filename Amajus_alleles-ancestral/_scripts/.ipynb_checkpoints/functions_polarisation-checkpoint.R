@@ -169,3 +169,9 @@ compile_AlleleDat_chromSegments <- function(alleleSequence, baseDIR, chrom, stit
   
   return(alleleDat)
 }
+
+#### Assign alleles to ancestral/derived
+assign_alleles_AncDer = function(alleleDat){
+    # alleleDat is the dataset compiled by the function: compile_AlleleDat_chromSegments
+    
+    }
