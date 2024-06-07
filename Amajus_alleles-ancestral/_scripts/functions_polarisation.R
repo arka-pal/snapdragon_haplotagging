@@ -173,5 +173,54 @@ compile_AlleleDat_chromSegments <- function(alleleSequence, baseDIR, chrom, stit
 #### Assign alleles to ancestral/derived
 assign_alleles_AncDer = function(alleleDat){
     # alleleDat is the dataset compiled by the function: compile_AlleleDat_chromSegments
-    
-    }
+    alleleDat = alleleDat %>% 
+
+        mutate(
+
+            ## Type of ancestral allele: major, minor, shared or unresolved 
+            anc_alleleType = case_when(
+                # Pattern A: 1 allele fixed in Amolle
+                (pool_numAlleles == 1 & pool_check == 0 & check_minAllele == 0) ~ 'major',
+                (pool_numAlleles == 1 & pool_check == 0 & check_minAllele == 1) ~ 'minor',
+
+                # Pattern B: Both share both alleles, major alleles match
+                (pool_numAlleles == 2 & pool_check == 0 & pool_minFreq == 0.5) ~ 'major',
+                (pool_numAlleles == 2 & pool_check == 0 & pool_minFreq != 0.5 & check_minAllele == 0) ~ 'major',
+                (pool_numAlleles > 2 & pool_check == 1 & (!pool_alleleShared %in% c('A','T','C','G','none',NA)) & pool_minFreq == 0.5) ~ 'major',
+                (pool_numAlleles > 2 & pool_check == 1 & (!pool_alleleShared %in% c('A','T','C','G','none',NA)) & pool_minFreq != 0.5 & check_minAllele == 0) ~ 'major',
+            
+                # Pattern C: Both share at least 1 allele
+                (pool_numAlleles == 2 & pool_check == 1 & pool_alleleShared != 'none') ~ 'shared',
+                (pool_numAlleles > 2 & pool_check == 1 & pool_alleleShared %in% c('A','T','C','G')) ~ 'shared',
+
+                # Pattern D-F
+                TRUE ~ 'unresolved'
+                ),
+
+            ## Ancestral allele (for sites that are resolved)
+            anc_allele_resolvedOnly = case_when(
+                (anc_alleleType == 'major') ~ Amajus_majAllele,
+                (anc_alleleType == 'minor') ~ Amajus_minAllele,
+                (anc_alleleType == 'shared') ~ pool_alleleShared,
+                (anc_alleleType == 'unresolved') ~ 'NA'
+                ),
+            
+            ## Derived allele (for sites that are resolved)
+            der_allele_resolvedOnly = case_when(
+                (anc_allele_resolvedOnly == 'NA') ~ 'NA',
+                TRUE ~ ifelse(anc_allele_resolvedOnly == ref, alt, ref)
+                ),
+            
+            ## Ancestral allele (for all sites)
+            anc_allele = case_when(
+                (anc_alleleType == 'unresolved') ~ Amajus_majAllele,
+                TRUE ~ anc_allele_resolvedOnly
+                ),
+            
+            ## Derived allele (for all sites)
+            der_allele = ifelse(anc_allele == ref, alt, ref)
+
+            )
+
+    return(alleleDat)
+}
