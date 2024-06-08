@@ -39,7 +39,9 @@ phaseComparison/misc_old
 phaseComparison/run1-240126
 
 ## recRate
-recRate
+recRate/Chr?.*
+recRate/jobs
+recRate/test
 
 ## ref_genome
 ref_genome/v3.5
