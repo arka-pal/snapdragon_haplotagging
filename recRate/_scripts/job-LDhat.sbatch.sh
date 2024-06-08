@@ -3,16 +3,18 @@
 ##### SLURM script to run LDhat and LDhot
 ##### author: Arka Pal
 ##### written: 29.04.2024
-##### update: 16.05.2024
+##### update: 07.06.2024
 
 ##### USAGE: sbatch -J <job-name> job-LDhat.sbatch.sh <options>
-##### $1: flank
-##### $2: chrom
+##### $1 - chrom; Chr6
+##### $2 - sampPrefix; MF3.pFR.hCov
+##### $3 - sampFile; 
+
 
 ## Defining SLURM variables
 #----------------------------------------------------------------
-#SBATCH --output=%x-ldhat-%A.out
-#SBATCH --error=%x-ldhat-%A.out
+#SBATCH --output=%x-%a-%A.out
+#SBATCH --error=%x-%a-%A.out
 #SBATCH --open-mode=append
 #SBATCH --partition=defaultp
 ### #SBATCH --constraint=bookworm
@@ -20,7 +22,7 @@
 #SBATCH --time=240:00:00
 #SBATCH --ntasks=1
 #SBATCH --ntasks-per-node=1
-#SBATCH --cpus-per-task=6
+#SBATCH --cpus-per-task=4
 #SBATCH --mem-per-cpu=16G
 
 
@@ -47,9 +49,13 @@ module load bcftools vcftools ldhat
 
 ## Initiate variables
 ## -----
-flank=$1
-chrom=$2
+chrom=$1
+sampPrefix=$2
+sampleFile=$3
+ncores=${SLURM_CPUS_PER_TASK}
+window=${SLURM_ARRAY_TASK_ID}
+
 
 ## Run LDhat
 ## -----
-bash ~/snap_hap/recMap/_scripts/run_LDhat.sh $flank $chrom
+srun bash ~/snap_hap/recMap/_scripts/run_LDhat.sh $chrom $sampPrefix $sampleFile $ncores $window
