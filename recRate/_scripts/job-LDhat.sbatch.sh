@@ -9,6 +9,7 @@
 ##### $1 - chrom; Chr6
 ##### $2 - sampPrefix; MF3.pFR.hCov
 ##### $3 - sampFile; 
+##### $4 - bpen; 
 
 
 ## Defining SLURM variables
@@ -23,7 +24,7 @@
 #SBATCH --ntasks=1
 #SBATCH --ntasks-per-node=1
 #SBATCH --cpus-per-task=1
-#SBATCH --mem-per-cpu=32G
+#SBATCH --mem-per-cpu=16G
 
 
 #SBATCH --mail-user=arka.pal@ist.ac.at
@@ -52,10 +53,11 @@ module load bcftools vcftools ldhat
 chrom=$1
 sampPrefix=$2
 sampleFile=$3
+bpen=$4
 ncores=${SLURM_CPUS_PER_TASK}
 window=${SLURM_ARRAY_TASK_ID}
 
 
 ## Run LDhat
 ## -----
-srun bash ~/snap_hap/recMap/_scripts/run_LDhat.sh $chrom $sampPrefix $sampleFile $ncores $window
+srun bash ~/snap_hap/recRate/_scripts/run_LDhat.sh $chrom $sampPrefix $sampleFile $bpen $ncores $window

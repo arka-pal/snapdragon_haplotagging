@@ -9,8 +9,9 @@
 ##### $1 - chrom; Chr6
 ##### $2 - sampPrefix; MF3.pFR.hCov
 ##### $3 - sampleFile; 
-##### $4 - number of cores
-##### $5 - chrom window
+##### $4 - bpen
+##### $5 - number of cores
+##### $6 - chrom window
 
 
 ## Load modules
@@ -26,9 +27,10 @@ chrom=$1
 sampPrefix=$2
 sampleFile=$3
 # sampleFile=~/snap_hap/sample_info/samples_by_pool/all_${flank}.list
-ncores=$4
+bpen=$4
+ncores=$5
 # ncores=10
-window=$5
+window=$6
 
 
 ## Define variables
@@ -67,15 +69,14 @@ vcftools --gzvcf $baseDIR/windows/w$window.$start.$end.vcf.gz \
 		 --chr $chrom \
 		 --ldhat-geno \
 		 --out $baseDIR/windows/w$window.$start.$end
-# rm $baseDIR/windows/w$window.$start.$end.vcf.gz
 
 
 ## Create lookup file
 #$LDhat/complete -n 25 -rhomax 100 -n_pts 101 -theta 0.01 -split $ncores -element 0 ##didn't run
 ## Needs to be run once!
-# pre_lkFile=$LDhat/lk_n100_t0.01
-# lkgen -lk $pre_lkFile -nseq $((num_indv*2))
-# mv new_lk.txt lkTable.txt
+pre_lkFile=$LDhat/lk_n100_t0.01
+lkgen -lk $pre_lkFile -nseq $((num_indv*2))
+mv new_lk.txt lkTable.txt
 lookup_Table=$baseDIR/lkTable.txt
 
 
@@ -83,13 +84,13 @@ lookup_Table=$baseDIR/lkTable.txt
 echo -e 'Interval mapping\n'
 seqFile=$baseDIR/windows/w$window.$start.$end.ldhat.sites
 locFile=$baseDIR/windows/w$window.$start.$end.ldhat.locs
-outPrefix=$baseDIR/windows/w$window.$start.$end.
+outPrefix=$baseDIR/windows/w$window.$start.$end.bpen$bpen.
 niter=1000000
 samp=5000
-bpen=5
+# bpen=5
 interval -seq $seqFile -loc $locFile -lk $lookup_Table -its $niter -samp $samp -bpen $bpen -prefix $outPrefix
 echo -e 'Summarise results\n'
-stat -input ${outPrefix}rates.txt -burn 5 -loc $locFile -prefix $outPrefix
+stat -input ${outPrefix}rates.txt -burn 200000 -loc $locFile -prefix $outPrefix
 
 
 ## Rhomap
@@ -99,3 +100,7 @@ stat -input ${outPrefix}rates.txt -burn 5 -loc $locFile -prefix $outPrefix
 # samp=5000
 # burn=200000
 # rhomap -seq $seqFile -loc $locFile -lk $new_lkFile -its $niter -sampe $samp -burn $burn -prefix $prefix
+
+
+## Cleanup
+rm $baseDIR/windows/w$window.$start.$end.vcf.gz
