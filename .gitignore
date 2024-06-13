@@ -24,6 +24,10 @@ Amajus_alleles-ancestral/allelePolarised_chrom
 
 ## ARGs
 ARGs/sg_run1-2024May_RosEl-MY3
+ARGs/ts_run3-20240603_pmFRpyYe-hCov/*.samples
+ARGs/ts_run3-20240603_pmFRpyYe-hCov/*.trees
+ARGs/ts_run3-20240603_pmFRpyYe-hCov/ts.RosEl.pmFRpyYe.samples
+ARGs/ts_run3-20240603_pmFRpyYe-hCov/ts.RosEl.pmFRpyYe.trees
 
 ## bamqc
 bamqc/indv_bamqc
