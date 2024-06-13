@@ -14,12 +14,12 @@
 
 ## Defining SLURM variables
 #----------------------------------------------------------------
-#SBATCH --output=%x-%a-%A.out
-#SBATCH --error=%x-%a-%A.out
+#SBATCH --output=w%a.%x.%A.ldhat.out
+#SBATCH --error=w%a.%x.%A.ldhat.out
 #SBATCH --open-mode=append
 #SBATCH --partition=defaultp
 ### #SBATCH --constraint=bookworm
-### #SBATCH --exclude=bigterra152,zeta[243-262]
+#SBATCH --exclude=beta231,zeta[243-262]
 #SBATCH --time=240:00:00
 #SBATCH --ntasks=1
 #SBATCH --ntasks-per-node=1
@@ -39,7 +39,7 @@ export OMP_NUM_THREADS=$SLURM_CPUS_PER_TASK
 #----------------------------------------------------------------
 
 ## not included -----
-## SBATCH --exclude=zeta[243-262],bigterra152
+## SBATCH --exclude=zeta[243-262],bigterra152,beta231
 ## SBATCH --gres=gpu:1
 ## -----
 
