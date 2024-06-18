@@ -5,6 +5,8 @@
 **/*.pos
 **/*.ipynb_checkpoints
 **/*.DS_Store
+*/.DS_Store
+**/~*
 
 
 ### Folders ###
@@ -46,7 +48,7 @@ phaseComparison/run1-240126
 ## recRate
 recRate/Chr?.*
 recRate/jobs
-recRate/test
+
 
 ## ref_genome
 ref_genome/v3.5
