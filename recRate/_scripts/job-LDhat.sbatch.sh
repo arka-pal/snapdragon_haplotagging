@@ -19,7 +19,7 @@
 #SBATCH --open-mode=append
 #SBATCH --partition=defaultp
 ### #SBATCH --constraint=bookworm
-#SBATCH --exclude=beta231,zeta[243-262]
+#SBATCH --exclude=beta[231-235],zeta[243-262]
 #SBATCH --time=240:00:00
 #SBATCH --ntasks=1
 #SBATCH --ntasks-per-node=1
@@ -39,7 +39,7 @@ export OMP_NUM_THREADS=$SLURM_CPUS_PER_TASK
 #----------------------------------------------------------------
 
 ## not included -----
-## SBATCH --exclude=zeta[243-262],bigterra152,beta231
+## SBATCH --exclude=zeta[243-263],bigterra152,beta[231-235]
 ## SBATCH --gres=gpu:1
 ## -----
 

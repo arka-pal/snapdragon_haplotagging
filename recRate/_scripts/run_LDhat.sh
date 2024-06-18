@@ -58,6 +58,7 @@ cd $baseDIR
 
 
 ## Preprocessing VCF file
+#### NB: Don't run if running with different bpen value
 echo -e '\n\n ----- \nMake VCF & input files\n -----\n'
 bcftools view -r ${chrom}:${bufferStart}-${bufferEnd} -S $sampleFile $stitchVCF -Oz -o $baseDIR/windows/w$window.$windowStart.$windowEnd.buf$buffer.vcf.gz
 # Create .sites and .locs file
@@ -130,4 +131,4 @@ stat -input ${outPrefix}rates.txt -burn $burnIn -loc $locFile -prefix $outPrefix
 
 
 ## Cleanup
-# rm $baseDIR/windows/w$window.$windowStart.$windowEnd.buf$buffer.vcf.gz
+rm $baseDIR/windows/w$window.$windowStart.$windowEnd.buf$buffer.vcf.gz
